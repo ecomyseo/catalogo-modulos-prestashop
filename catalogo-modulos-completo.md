@@ -1,6 +1,6 @@
 # Catálogo completo de módulos de las tiendas
 
-Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas. De **45 tiendas**, **1660 módulos distintos**: **1138 de terceros** (88 de pago, 247 gratuitos, 803 sin dato) y 522 propios, de plantilla o de PrestaShop.
+Módulos encontrados al conectar por FTP/SFTP a las tiendas y módulos con identificador acreditado en las fichas de fabricantes. De **45 tiendas** y las referencias comerciales, **1754 módulos distintos**: **1227 de terceros** (181 de pago, 249 gratuitos, 797 sin dato) y 527 propios, de plantilla o de PrestaShop.
 
 **Cómo leer el coste:**
 
@@ -14,32 +14,32 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 - `Gratis (de PrestaShop)` — de serie o gratuito de PrestaShop.
 - `—` — sin ficha pública (normalmente a medida, de agencia o copia de respaldo).
 
-## 1. Terceros de PAGO (88)
+## 1. Terceros de PAGO (181)
 
 | Módulo | Comercial | Desarrollador | Tiendas | PrestaShop | Coste | Enlace |
 |---|---|---|---|---|---|---|
-| `onepagecheckoutps` | One Page Checkout (PresTeamSho | PresTeamShop | 17 | 8.1, 8.2 | 129 € | [ficha](https://www.onepagecheckoutps.com/) |
-| `ph_simpleblog` | Blog for PrestaShop (PrestaHom | PrestaHome | 12 | 8.1, 8.2 | 45 € | [ficha](https://prestahome.com/) |
+| `onepagecheckoutps` | One Page Checkout (PresTeamShop) | PresTeamShop | 17 | 8.1, 8.2 | 129 € | [ficha](https://www.onepagecheckoutps.com/) |
+| `ph_simpleblog` | Blog for PrestaShop (PrestaHome) | PrestaHome | 12 | 8.1, 8.2 | 45 € | [ficha](https://prestahome.com/) |
 | `migrationpro` | — | prestahero.com | 11 | 8.1, 8.2 | 139.99 € | [ficha](https://prestahero.com/190-migrate-upgrade) |
 | `redsys` | REDSYS card payment (idnovate) | idnovate | 10 | 8.2 | 55.99 € | [ficha](https://www.idnovate.com/en/1372-redsys-card-payment-bizum-clicktopay-refunds.html) |
 | `whatsappchat` | WhatsApp Live Chat (idnovate) | idnovate | 10 | 8.2 | 55.99 € | [ficha](https://www.idnovate.com/en/1406-whatsapp-live-chat-with-customers-whatsapp-business.html) |
 | `doofinder` | — | doofinder.com | 9 | 8.1, 8.2 | Suscripción (pago periódico) | [ficha](https://www.doofinder.com/en/solutions/prestashop) |
-| `creativeelements` | — | creativeelements.webshopwo | 8 | 8.2 | 90 € | [ficha](https://creativeelements.webshopworks.com/pricing) |
+| `creativeelements` | — | creativeelements.webshopworks.com | 8 | 8.2 | 90 € | [ficha](https://creativeelements.webshopworks.com/pricing) |
 | `lgseoredirect` | — | cpe.gcve.eu | 8 | 8.1, 8.2 | 59.99 € | [ficha](https://cpe.gcve.eu/cpes/1173227) |
 | `uecookie` | — | mypresta.eu | 8 | — | 40 € | [ficha](https://mypresta.eu/modules/front-office-features/european-union-cookie-law-pro.html) |
-| `gmerchantcenter` | Google Merchant Center (Busine | Business Tech | 7 | 8.2 | 129.99 € | [ficha](https://www.businesstech.fr/en/google-and-advertising-modules-for-prestashop/11-google-merchant-center-module-for-prestashop-0656272551230.html) |
-| `pdgooglemerchantcenterpro` | Google Shopping Pro (PrestaDev | PrestaDev.pl | 7 | 8.1, 8.2 | 21 € | [ficha](https://prestadev.pl/pl/google-shopping-pro-google-zakupy-dla-prestashop.html) |
+| `gmerchantcenter` | Google Merchant Center (Business Tech) | Business Tech | 7 | 8.2 | 129.99 € | [ficha](https://www.businesstech.fr/en/google-and-advertising-modules-for-prestashop/11-google-merchant-center-module-for-prestashop-0656272551230.html) |
+| `pdgooglemerchantcenterpro` | Google Shopping Pro (PrestaDev.pl) | PrestaDev.pl | 7 | 8.1, 8.2 | 21 € | [ficha](https://prestadev.pl/pl/google-shopping-pro-google-zakupy-dla-prestashop.html) |
 | `cedconnector` | — | cedcommerce.com | 6 | 8.2 | Suscripción (pago periódico) | [ficha](https://cedcommerce.com) |
 | `lgcookieslaw` | — | lineagrafica.es | 6 | 8.2 | 59.99 € | [ficha](https://www.lineagrafica.es/en/products/prestashop-module-cookie-law-notice-blocker) |
 | `amazon` | — | common-services.com | 5 | 8.2 | Suscripción (pago periódico) | [ficha](https://common-services.com/prestashop-amazon-migrate-app-2026/) |
 | `connectif` | Connectif (marketing) | Connectif | 5 | 8.2 | Módulo gratis, servicio de pago | — |
 | `netreviews` | — | help-center.prestashop.com | 5 | — | Suscripción (pago periódico) | [ficha](https://help-center.prestashop.com/hc/en-us/articles/20797136369170) |
 | `lgsitemaps` | — | lineagrafica.es | 4 | — | 84.99 € | [ficha](https://www.lineagrafica.es/en/products/prestashop-module-multilingual-sitemap-generator) |
-| `paypalwithfee` | — | lineagrafica.es | 4 | 8.2 | 59.99 € | [ficha](https://www.lineagrafica.es/?p=49362) |
+| `paypalwithfee` | paypalwithfee | 4webs.es | 4 | 8.2 | 59.99 € | [ficha](https://www.lineagrafica.es/?p=49362) |
 | `channable` | — | channable.com | 3 | — | Suscripción (pago periódico) | [ficha](https://www.channable.com/platform/prestashop) |
 | `lgcanonicalurls` | — | — | 3 | 8.2 | 48.99 € | — |
 | `lgimagesregenerator` | — | lineagrafica.es | 3 | — | 59.99 € | [ficha](https://www.lineagrafica.es/en/products/prestashop-module-regenerate-thumbnails) |
-| `pdfacebookdynamicadsfeedpro` | Facebook Dynamic Ads feed Pro  | PrestaDev.pl | 3 | 8.2 | 20 € | [ficha](https://prestadev.pl/en/xml-product-export-for-facebook-dynamic-ads-for-prestashop.html) |
+| `pdfacebookdynamicadsfeedpro` | Facebook Dynamic Ads feed Pro (PrestaDev.pl) | PrestaDev.pl | 3 | 8.2 | 20 € | [ficha](https://prestadev.pl/en/xml-product-export-for-facebook-dynamic-ads-for-prestashop.html) |
 | `sdevmanomano` | — | — | 3 | 8.2 | Suscripción (pago periódico) | — |
 | `smartargetwhatsapp` | — | eesel.ai | 3 | — | Suscripción (pago periódico) | [ficha](https://www.eesel.ai/blog/smartarget-whatsapp-review) |
 | `usercentrics` | — | prestashop.com | 3 | — | Suscripción (pago periódico) | [ficha](https://www.prestashop.com/en/blog/consent-management-online-shop) |
@@ -67,9 +67,9 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `clientify` | — | — | 1 | — | Suscripción (pago periódico) | — |
 | `conditionalcartrules` | conditionalcartrules | idnovate | 1 | — | 69.99 € | [ficha](https://www.idnovate.com/en/1404-conditional-cart-rules-without-offers-on-sale.html) |
 | `connectif_copia.php` | — | — | 1 | 8.2 | Módulo gratis, servicio de pago | — |
-| `creativeelements_2914` | — | pagebuilder.webshopworks.c | 1 | — | 84 € | [ficha](https://pagebuilder.webshopworks.com/pricing) |
-| `creativeelements_ant` | — | creativeelements.webshopwo | 1 | — | 90 € | [ficha](https://creativeelements.webshopworks.com/pricing) |
-| `creativeelementsnabi copy` | — | creativeelements.webshopwo | 1 | — | 83 € | [ficha](https://creativeelements.webshopworks.com/pricing) |
+| `creativeelements_2914` | — | pagebuilder.webshopworks.com | 1 | — | 84 € | [ficha](https://pagebuilder.webshopworks.com/pricing) |
+| `creativeelements_ant` | — | creativeelements.webshopworks.com | 1 | — | 90 € | [ficha](https://creativeelements.webshopworks.com/pricing) |
+| `creativeelementsnabi copy` | — | creativeelements.webshopworks.com | 1 | — | 83 € | [ficha](https://creativeelements.webshopworks.com/pricing) |
 | `criteoonetag` | — | mypresta.rocks | 1 | 8.2 | 62.1 € | [ficha](https://mypresta.rocks/criteo-onetag-integration) |
 | `easyprestatranslator` | — | — | 1 | — | Suscripción (pago periódico) | — |
 | `formmaker` | — | — | 1 | — | 49 € | — |
@@ -78,7 +78,7 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `growaffiliate` | — | — | 1 | — | Módulo gratis, servicio de pago | — |
 | `htmlboxpro` | — | mypresta.eu | 1 | — | 40 € | [ficha](https://mypresta.eu/modules/front-office-features/html-box-pro.html) |
 | `illow` | — | illow.io | 1 | — | Suscripción (pago periódico) | [ficha](https://illow.io/) |
-| `infinitescroll` | — | silbersaiten.de | 1 | — | 49.99 € | [ficha](https://www.silbersaiten.de/en/prestashop-modules/352-infinite-scroll.html) |
+| `infinitescroll` | infinitescroll | Studio Kiwik | 1 | — | 49.99 € | [ficha](https://www.silbersaiten.de/en/prestashop-modules/352-infinite-scroll.html) |
 | `kbprivateshop` | — | knowband.com | 1 | — | 39.99 € | [ficha](https://knowband.com/prestashop-private-shop) |
 | `lengow` | — | — | 1 | — | Suscripción (pago periódico) | — |
 | `lengow2` | — | — | 1 | — | Suscripción (pago periódico) | — |
@@ -95,7 +95,9 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `prestabay` | — | involic.freshdesk.com | 1 | 8.2 | 185 € | [ficha](https://involic.freshdesk.com/support/solutions/articles/5000717830) |
 | `productlabelsandstickers_old` | — | store.webkul.com | 1 | 8.2 | 49 € | [ficha](https://store.webkul.com/Prestashop-Product-label.html) |
 | `pts_abandonedcartopc` | — | presteamshop.com | 1 | — | 35 € | [ficha](https://presteamshop.com/en/prestashop-modules/abandoned-cart-opc.html) |
-| `rc_pganalytics` | Premium Google Analytics 4 (Re | ReactionCode | 1 | — | 139.99 € | [ficha](https://addons.prestashop.com/en/analytics/18623-premium-google-analytics-4-ga4-server-side-.html) |
+| `rc_pganalytics` | Premium Google Analytics 4 (ReactionCode) | ReactionCode | 1 | — | 139.99 € | [ficha](https://addons.prestashop.com/en/analytics/18623-premium-google-analytics-4-ga4-server-side-.html) |
+| `rightofwithdrawal` | Derecho de Desistimiento | Rekire | 1 | 8.2 | 90 € | [ficha](https://rekire.com/modulos-de-prestashop/120-modulo-desistimientos-cumplimiento-nueva-normativa-ue.html) |
+| `rkrtaxround` | RKR Ajuste de redondeo de IVA | Rekire | 1 | 8.2 | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/293-rkr-ajuste-de-redondeo-de-iva.html) |
 | `secuvad` | — | — | 1 | — | Suscripción (pago periódico) | — |
 | `shoppingfeed` | — | — | 1 | — | Módulo gratis, servicio de pago | — |
 | `spmostviewed` | — | codecanyon.net | 1 | — | 22 € | [ficha](https://codecanyon.net/item/sp-most-viewed-responsive-prestashop-module/15843297) |
@@ -106,8 +108,99 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `v2.11.1-creativeelements (2).zip` | — | sites.fastspring.com | 1 | — | 90 € | [ficha](https://sites.fastspring.com/globalillusion/product/creativeelements) |
 | `v9.0.2-verified reviews (1).zip` | — | softwarefinder.com | 1 | — | Suscripción (pago periódico) | [ficha](https://softwarefinder.com/customer-service-software/verified-reviews) |
 | `yotpo` | — | discover.commoninja.com | 1 | — | Módulo gratis, servicio de pago | [ficha](https://discover.commoninja.com/prestashop/module/31083-yotpo) |
+| `easyboughttogetherflash` | Easy Bought Together Flash | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/118-easy-bought-together-flash-comprados-juntos-con-descuento-en-la-ficha-de-producto.html) |
+| `easyproductvideos` | Easy Product Videos | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/92-modulo-video.html) |
+| `rkr_maileditor` | RKR Mail Editor (correos transaccionales) | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/171-rkrmaileditor.html) |
+| `rkr_stickycart` | RKR Barra Flotante Añadir al Carrito | Rekire | 0 | — | 39.9 € | [ficha](https://rekire.com/modulos-de-prestashop/138-rkr-barra-flotante-anadir-al-carrito.html) |
+| `rkralertnews` | RKR Alert News | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/302-rkr-alert-news-avisa-a-tus-clientes-cuando-publicas-un-producto-que-buscaban.html) |
+| `rkrareapricingpro` | RKR Área Pricing Pro | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/218-rkr-area-pricing-pro-venta-por-m-con-cajas-y-piezas-completas-para-prestashop.html) |
+| `rkrauthorship` | RKR Authors & Reviewers (E-E-A-T) | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/255-rkr-authors-reviewers-autores-y-revisores-expertos-e-e-a-t-para-prestashop.html) |
+| `rkrautopostsocial` | RKR Auto Post Social | Rekire | 0 | — | 129.9 € | [ficha](https://rekire.com/modulos-de-prestashop/309-rkr-auto-post-social-publica-tus-productos-en-redes.html) |
+| `rkravisostelegram` | Telegram avisos total | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/126-modulo-telegram-avisos-total.html) |
+| `rkrbillingaddress` | RKR Datos de Facturación | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/189-rkr-datos-de-facturacion-solicitar-factura-validacion-del-nif-y-factura-simplificada-para-prestashop.html) |
+| `rkrbrandcarousel` | RKR Carrusel de marcas por categoría | Rekire | 0 | — | 69.9 € | [ficha](https://rekire.com/modulos-de-prestashop/313-rkr-carrusel-de-marcas-por-categoria-tu-cliente-llega-a-su-marca-de-un-toque.html) |
+| `rkrbuymorepro` | RKR Buy More Pro | Rekire | 0 | — | 119.9 € | [ficha](https://rekire.com/modulos-de-prestashop/190-rkr-buy-more-pro-order-bump-en-el-checkout-con-test-a-b-y-estadisticas-para-prestashop.html) |
+| `rkrcartqty` | Botón Comprar con cantidad en la cesta | Rekire | 0 | — | 59.9 € | [ficha](https://rekire.com/modulos-de-prestashop/274-boton-comprar-con-cantidad-en-la-cesta-ve-y-cambia-lo-que-lleva-desde-el-listado.html) |
+| `rkrcartrewards` | RKR Cart Rewards | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/303-rkr-cart-rewards-barra-de-recompensas-en-el-carrito-con-envio-gratis-y-regalos.html) |
+| `rkrcartsync` | RKR Carrito Único | Rekire | 0 | — | 66.9 € | [ficha](https://rekire.com/modulos-de-prestashop/180-rkr-carrito-unico-el-mismo-carrito-en-todos-los-dispositivos.html) |
+| `rkrcashbackpromo` | RKR Cashback Promo | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/283-rkr-cashback-promo-cashback-tras-el-plazo-de-devolucion.html) |
+| `rkrconsign` | RKR Consign | Rekire | 0 | — | 149.9 € | [ficha](https://rekire.com/modulos-de-prestashop/188-rkr-consign-venta-en-deposito-con-liquidacion-a-consignantes-para-prestashop.html) |
+| `rkrcontribution` | RKR Contribution | Rekire | 0 | — | 129.9 € | [ficha](https://rekire.com/modulos-de-prestashop/251-rkr-contribution-propinas-y-donaciones-para-prestashop.html) |
+| `rkrcookies` | RKR Cookies (RGPD Consent Mode v2) | Rekire | 0 | — | 119.9 € | [ficha](https://rekire.com/modulos-de-prestashop/269-rkr-cookies-banner-rgpd-con-consent-mode-v2-bloqueo-real-y-registro-de-consentimientos-para-prestashop.html) |
+| `rkrcrowdfunding` | RKR Crowdfunding y preventas | Rekire | 0 | — | 149.9 € | [ficha](https://rekire.com/modulos-de-prestashop/253-rkr-crowdfunding-y-preventas-campanas-de-crowdfunding-y-preventas-en-tu-propia-tienda-prestashop.html) |
+| `rkrcustomcontent` | RKR Custom Content Types | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/244-rkr-custom-content-types-recetas-eventos-proyectos-y-mas-en-tu-tienda-prestashop.html) |
+| `rkrcustomerspets` | RKR Customers Pets | Rekire | 0 | — | 129.9 € | [ficha](https://rekire.com/modulos-de-prestashop/308-rkr-customers-pets-fichas-de-mascotas-recomendaciones-y-citas.html) |
+| `rkrdangerousshipments` | Envíos de mercancías peligrosas (ADR) | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/286-envios-de-mercancias-peligrosas-adr-baterias-de-litio-aerosoles-e-inflamables.html) |
+| `rkrdeadlineoffers` | RKR Deadline Offers | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/256-rkr-deadline-offers-ofertas-con-cuenta-atras-real-para-tu-tienda-prestashop.html) |
+| `rkrdeliverydatapro` | RKR Delivery Date Pro | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/312-rkr-delivery-date-pro-el-cliente-elige-fecha-y-franja-de-entrega-en-el-checkout.html) |
+| `rkrdiagnoses` | RKR Diagnoses | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/301-rkr-diagnoses-diagnostico-y-profiler-de-rendimiento-para-prestashop.html) |
+| `rkrdinamicimage` | RKR Dynamic Image (Open Graph) | Rekire | 0 | — | 106.9 € | [ficha](https://rekire.com/modulos-de-prestashop/217-rkr-dynamic-image-imagenes-open-graph-dinamicas-para-prestashop.html) |
+| `rkrdiscountpricedrop` | Protección de bajada de precio | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/279-proteccion-de-bajada-de-precio-vale-automatico-por-la-diferencia.html) |
+| `rkreudrguard` | RKR EUDR Guard | Rekire | 0 | — | 129.9 € | [ficha](https://rekire.com/modulos-de-prestashop/311-rkr-eudr-guard-reglamento-antideforestacion-ue-2023-1115-dds-y-trazabilidad-para-prestashop.html) |
+| `rkrexitpoll` | RKR Exit Poll | Rekire | 0 | — | 69.9 € | [ficha](https://rekire.com/modulos-de-prestashop/184-rkr-exit-poll-encuesta-de-abandono-en-el-checkout-con-cupones-y-estadisticas.html) |
+| `rkrfreereturn` | RKR Free Return | Rekire | 0 | — | 119.9 € | [ficha](https://rekire.com/modulos-de-prestashop/228-rkr-free-return-devolucion-gratuita-de-pago-en-el-checkout-para-prestashop.html) |
+| `rkrgallery` | RKR Galería de producto | Rekire | 0 | — | 119.9 € | [ficha](https://rekire.com/modulos-de-prestashop/140-rkr-galeria-de-producto.html) |
+| `rkrgiftslistevents` | RKR Gifts List & Events | Rekire | 0 | — | 119.9 € | [ficha](https://rekire.com/modulos-de-prestashop/287-rkr-gifts-list-events-listas-de-regalos-de-boda-nacimiento-y-comunion-para-prestashop.html) |
+| `rkrglossarytooltip` | RKR Glossary Tooltip | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/304-rkr-glossary-tooltip-glosario-con-definiciones-emergentes-y-pagina-a-z-para-prestashop.html) |
+| `rkrgooglereviews` | RKR Google & Trustpilot Reviews | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/230-rkr-google-trustpilot-reviews-resenas-en-tu-tienda-prestashop.html) |
+| `rkrgpsrcompilance` | RKR GPSR & Digital Product Passport | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/290-rkr-gpsr-digital-product-passport-fabricante-responsable-en-la-ue-y-pasaporte-digital-con-qr-para-prestashop.html) |
+| `rkrgroupbuying` | RKR Group Buying | Rekire | 0 | — | 129.9 € | [ficha](https://rekire.com/modulos-de-prestashop/187-rkr-group-buying-compra-colectiva-con-precio-por-tramos-para-prestashop.html) |
+| `rkrincicosmetics` | RKR INCI Cosmetics | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/296-rkr-inci-cosmetics-lista-inci-alergenos-de-fragancia-ue-2023-1545-y-gpsr-para-prestashop.html) |
+| `rkrindexnowbest` | RKR IndexNow Best | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/284-rkr-indexnow-best-avisa-a-los-buscadores-de-cada-cambio-y-mide-tus-productos-con-search-console.html) |
+| `rkrinfluencerslanding` | RKR Influencer Landing | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/280-rkr-influencer-landing-una-pagina-propia-que-vende-para-cada-creador.html) |
+| `rkrinviteandwin` | RKR Invite & Win | Rekire | 0 | — | 132.9 € | [ficha](https://rekire.com/modulos-de-prestashop/224-rkr-invite-win-programa-de-referidos-con-monedero-virtual-y-antifraude-para-prestashop.html) |
+| `rkrlegalassistant` | RKR Legal Assistant | Rekire | 0 | — | 129.9 € | [ficha](https://rekire.com/modulos-de-prestashop/186-rkr-legal-assistant-textos-legales-consentimientos-y-avisos-para-prestashop.html) |
+| `rkrlinearpricingpro` | RKR Linear Pricing Pro | Rekire | 0 | — | 79.9 € | [ficha](https://rekire.com/modulos-de-prestashop/219-rkr-linear-pricing-pro-venta-por-metros-con-bobinas-tramos-y-cortes-para-prestashop.html) |
+| `rkrlinkdigitalqrgs1` | RKR GS1 Digital Link QR | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/314-rkr-gs1-digital-link-qr-codigos-qr-gs1-de-tu-catalogo-con-resolver-propio.html) |
+| `rkrlinkstock` | RKR LinkStock | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/247-rkr-linkstock-stock-compartido-entre-productos-combinaciones-y-packs-en-prestashop.html) |
+| `rkrliveshowcase` | RKR Live Showcase | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/275-rkr-live-showcase-tu-tienda-en-una-foto-con-cada-producto-comprable.html) |
+| `rkrmagiccarts` | RKR Magic Carts | Rekire | 0 | — | 119.9 € | [ficha](https://rekire.com/modulos-de-prestashop/191-rkr-magic-carts-carritos-y-presupuestos-con-enlace-permalink-o-qr-para-prestashop.html) |
+| `rkrmanufacturing` | Escandallos y órdenes de fabricación | Rekire | 0 | — | 149.9 € | [ficha](https://rekire.com/modulos-de-prestashop/289-escandallos-y-ordenes-de-fabricacion-coste-real-y-stock-automatico.html) |
+| `rkrmensajeria` | RKR Mensajería (push, PWA) | Rekire | 0 | — | 60 € | [ficha](https://rekire.com/modulos-de-prestashop/159-modulo-notificaciones-push.html) |
+| `rkrmixproductscontrol` | RKR Control de Productos | Rekire | 0 | — | 129.9 € | [ficha](https://rekire.com/modulos-de-prestashop/307-rkr-control-de-productos-stock-muerto-y-cortafuegos-de-precios.html) |
+| `rkroffernextbuy` | RKR Offer Next Buy | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/249-rkr-offer-next-buy-cupon-para-la-siguiente-compra.html) |
+| `rkrofferstransmail` | RKR Ofertas en emails transaccionales | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/245-rkr-ofertas-en-emails-transaccionales-vende-en-los-correos-de-pedido-de-prestashop.html) |
+| `rkroneclickinstantbuy` | RKR Compra en 1 clic | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/254-rkr-compra-en-1-clic-compra-en-un-clic-con-la-direccion-despues-del-pago-en-prestashop.html) |
+| `rkroptimmatters` | RKR OptiMatters | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/246-rkr-optimatters-optimizador-de-css-js-y-google-fonts-para-prestashop.html) |
+| `rkrorderarchive` | RKR Order Archive | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/192-rkr-order-archive-archivo-de-pedidos-antiguos-para-prestashop.html) |
+| `rkrorderprepcalendar` | RKR Order Prep Calendar | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/257-rkr-order-prep-calendar-recordatorios-de-regalo-con-cupon.html) |
+| `rkroutlet` | RKR Outlet | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/298-rkr-outlet-devoluciones-y-cajas-abiertas.html) |
+| `rkrpaymentfee` | RKR Payment Fee | Rekire | 0 | — | 59.9 € | [ficha](https://rekire.com/modulos-de-prestashop/285-rkr-payment-fee-recargo-por-pedido-y-descuento-para-las-formas-de-pago-que-prefieres.html) |
+| `rkrprintprice` | RKR Print & Laser Price Calculator | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/294-rkr-print-laser-price-calculator-presupuestos-instantaneos-de-impresion-3d-y-corte-laser.html) |
+| `rkrprivatesales` | RKR Private Sales & Flash Sales | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/282-rkr-private-sales-flash-sales-ventas-privadas-y-flash-por-invitacion.html) |
+| `rkrproductdependencies` | RKR Product Dependencies | Rekire | 0 | — | 79.9 € | [ficha](https://rekire.com/modulos-de-prestashop/222-rkr-product-dependencies-venta-con-requisitos-y-anadir-lo-que-falta-para-prestashop.html) |
+| `rkrproductfeed` | RKR Product Feed para Google, Meta y TikTok | Rekire | 0 | — | 79.9 € | [ficha](https://rekire.com/modulos-de-prestashop/292-rkr-product-feed-para-google-meta-y-tiktok-un-articulo-por-combinacion-con-su-precio-y-su-stock.html) |
+| `rkrproductkit` | Rekire Product Kit | Rekire | 0 | — | 150 € | [ficha](https://rekire.com/modulos-de-prestashop/90-modulo-kits.html) |
+| `rkrproductrescue` | RKR Product Rescue | Rekire | 0 | — | 59.9 € | [ficha](https://rekire.com/modulos-de-prestashop/183-rkr-product-rescue-productos-agotados-desactivados-y-404-con-alternativas.html) |
+| `rkrprogramaticseo` | RKR Programatic SEO | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/232-rkr-programatic-seo-landings-seo-por-lotes-para-prestashop.html) |
+| `rkrpromosintolists` | RKR Promos Into Lists | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/291-rkr-promos-into-lists-ofertas-dentro-de-los-listados-de-productos.html) |
+| `rkrpurchaselimits` | RKR Purchase Limits | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/295-rkr-purchase-limits-limites-de-compra-por-cliente-contra-revendedores-y-acaparadores.html) |
+| `rkrrecambios` | RKR Recambios (Ovoko) | Rekire | 0 | — | 149.9 € | [ficha](https://rekire.com/modulos-de-prestashop/281-rkr-recambios-vende-tu-recambio-usado-en-ovoko-desde-prestashop-sin-vender-dos-veces.html) |
+| `rkrrecargoequiva` | RKR Recargo de Equivalencia | Rekire | 0 | — | 129.9 € | [ficha](https://rekire.com/modulos-de-prestashop/227-rkr-recargo-de-equivalencia-recargo-de-equivalencia-como-impuesto-real-en-prestashop.html) |
+| `rkrrefoundingorders` | RKR Refound Orders | Rekire | 0 | — | 119.9 € | [ficha](https://rekire.com/modulos-de-prestashop/225-rkr-refound-orders-reembolsos-en-la-pasarela-con-factura-rectificativa.html) |
+| `rkrselectcity` | RKR Selector de ciudad y teléfono internacional | Rekire | 0 | — | 79.9 € | [ficha](https://rekire.com/modulos-de-prestashop/258-rkr-selector-de-ciudad-y-telefono-internacional-direcciones-limpias-y-telefonos-validos-en-prestashop.html) |
+| `rkrshippingprotection` | RKR Shipping Protection | Rekire | 0 | — | 119.9 € | [ficha](https://rekire.com/modulos-de-prestashop/194-rkr-shipping-protection-proteccion-de-envio-opcional-y-portal-de-reclamaciones-para-prestashop.html) |
+| `rkrshopintotelegram` | RKR Telegram Store (Mini App) | Rekire | 0 | — | 172.9 € | [ficha](https://rekire.com/modulos-de-prestashop/216-rkr-telegram-store-mini-app-vende-desde-un-bot-de-telegram.html) |
+| `rkrsmartcoupons` | RKR Smart Coupons | Rekire | 0 | — | 132.9 € | [ficha](https://rekire.com/modulos-de-prestashop/231-rkr-smart-coupons-bonos-de-sesiones-y-creditos-prepagados-para-prestashop.html) |
+| `rkrspareparts` | RKR Despieces Interactivos de Recambios | Rekire | 0 | — | 89.9 € | [ficha](https://rekire.com/modulos-de-prestashop/181-rkr-despieces-interactivos-de-recambios.html) |
+| `rkrspecialshipping` | RKR Envíos a Canarias, Ceuta y Melilla | Rekire | 0 | — | 129.9 € | [ficha](https://rekire.com/modulos-de-prestashop/288-rkr-envios-a-canarias-ceuta-y-melilla.html) |
+| `rkrsplitfriendspayment` | RKR Split Friends Payment | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/310-rkr-split-friends-payment-pago-dividido-entre-amigos-cada-uno-paga-su-parte.html) |
+| `rkrsyncglobouberjust` | RKR Delivery Channel Sync (Glovo, Uber Eats, Just Eat) | Rekire | 0 | — | 149.9 € | [ficha](https://rekire.com/modulos-de-prestashop/278-rkr-delivery-channel-sync-glovo-uber-eats-just-eat-vende-en-apps-de-reparto-desde-prestashop.html) |
+| `rkrsyncvinted` | RKR Sync Vinted Pro | Rekire | 0 | — | 149.9 € | [ficha](https://rekire.com/modulos-de-prestashop/248-rkr-sync-vinted-pro-vende-en-vinted-y-en-tu-tienda-prestashop-sin-duplicar-ventas.html) |
+| `rkrteamnotes` | RKR Team Notes | Rekire | 0 | — | 79.9 € | [ficha](https://rekire.com/modulos-de-prestashop/306-rkr-team-notes-notas-internas-menciones-y-responsables-en-pedidos.html) |
+| `rkrtextillabels` | RKR Textile Labels | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/277-rkr-textile-labels-etiquetas-textiles-composicion-y-simbolos-de-cuidado-para-prestashop.html) |
+| `rkrthanksbybuy` | RKR Thanks by Buy | Rekire | 0 | — | 99.9 € | [ficha](https://rekire.com/modulos-de-prestashop/252-rkr-thanks-by-buy-ofertas-de-socios-en-la-confirmacion-de-pedido.html) |
+| `rkrtotaltranslator` | Traducción total | Rekire | 0 | — | 160 € | [ficha](https://rekire.com/modulos-de-prestashop/124-modulo-traduccion-total.html) |
+| `rkrunlimitedtabs` | RKR Unlimited Tabs | Rekire | 0 | — | 69.9 € | [ficha](https://rekire.com/modulos-de-prestashop/185-rkr-unlimited-tabs-pestanas-reutilizables-en-la-ficha-de-producto-para-prestashop.html) |
+| `rkrvatplastic` | RKR Plastic Packaging Tax (Modelo 592) | Rekire | 0 | — | 149.9 € | [ficha](https://rekire.com/modulos-de-prestashop/250-rkr-plastic-packaging-tax-impuesto-del-plastico-y-modelo-592-para-prestashop.html) |
+| `rkrvatusedgoods` | RKR REBU (IVA del margen) | Rekire | 0 | — | 179.9 € | [ficha](https://rekire.com/modulos-de-prestashop/223-rkr-rebu-iva-del-margen-para-bienes-usados.html) |
+| `rkrvatvape` | RKR Vape & Nicotine Excise Tax (Modelo 573) | Rekire | 0 | — | 129.9 € | [ficha](https://rekire.com/modulos-de-prestashop/229-rkr-vape-nicotine-excise-tax-impuesto-especial-y-modelo-573-para-prestashop.html) |
+| `rkrverifyauthenticity` | RKR Verify Authenticity | Rekire | 0 | — | 119.9 € | [ficha](https://rekire.com/modulos-de-prestashop/297-rkr-verify-authenticity-certificados-de-autenticidad-con-qr-y-nfc-para-prestashop.html) |
+| `rkrvideollamada` | RKR Video Call | Rekire | 0 | — | 129.9 € | [ficha](https://rekire.com/modulos-de-prestashop/193-rkr-video-call-videollamadas-de-venta-con-carrito-compartido-para-prestashop.html) |
+| `rkrvolumepricingpro` | RKR Volume Pricing Pro | Rekire | 0 | — | 79.9 € | [ficha](https://rekire.com/modulos-de-prestashop/220-rkr-volume-pricing-pro-venta-por-volumen-m-y-litros-con-unidades-completas-y-stock-para-prestashop.html) |
+| `rkrweightpricingpro` | RKR Weight Pricing Pro | Rekire | 0 | — | 79.9 € | [ficha](https://rekire.com/modulos-de-prestashop/221-rkr-weight-pricing-pro-venta-por-peso-para-prestashop.html) |
 
-## 2. Terceros GRATUITOS (247)
+## 2. Terceros GRATUITOS (249)
 
 | Módulo | Comercial | Desarrollador | Tiendas | PrestaShop | Coste | Enlace |
 |---|---|---|---|---|---|---|
@@ -115,18 +208,19 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `index.php` | — | — | 44 | 8.1, 8.2 | Gratis (sin confirmar) | — |
 | `referralprogram` | — | github.com | 44 | 8.1, 8.2 | Gratis | [ficha](https://github.com/PrestaShop/referralprogram) |
 | `paypal` | PayPal oficial (202 ecommerce) | 202 ecommerce | 27 | 8.1, 8.2 | Gratis (sin confirmar) | — |
-| `redsyspur` | Redsys oficial (PUR) | Redsys Servicios de Proces | 19 | 8.1, 8.2 | Gratis (sin confirmar) | — |
-| `imageregenerator` | Regeneracion de imagenes (Como | Jérémy Besson - ComonSoft | 18 | 8.1, 8.2 | Gratis (sin confirmar) | — |
+| `redsyspur` | Redsys oficial (PUR) | Redsys Servicios de Procesamiento S.L. | 19 | 8.1, 8.2 | Gratis (sin confirmar) | — |
+| `imageregenerator` | Regeneracion de imágenes (ComonSoft) | Jérémy Besson | 18 | 8.1, 8.2 | Gratis (sin confirmar) | — |
 | `sequra` | — | docs.sequra.com | 16 | 8.2 | Gratis | [ficha](https://docs.sequra.com/docs/installation-prestashop) |
 | `tecno_xss_hotfix` | Parche XSS (Tecnoacquisti.com) | Tecnoacquisti.com | 14 | 8.1, 8.2 | Gratis (sin confirmar) | — |
 | `mailchimppro` | Mailchimp (oficial) | Mailchimp | 13 | 8.1, 8.2 | Gratis | [ficha](https://mailchimp.com/integrations/prestashop/) |
-| `adminmenu` | Back office menu manager (MyPr | MyPresta.eu | 12 | 8.1, 8.2 | Gratis | [ficha](https://mypresta.eu/modules/administration-tools/back-office-menu-manager.html) |
+| `adminmenu` | Back office menu manager (MyPresta) | MyPresta.eu | 12 | 8.1, 8.2 | Gratis | [ficha](https://mypresta.eu/modules/administration-tools/back-office-menu-manager.html) |
+| `emarketing` | PrestaShop Ads (oficial) | gratuito de PrestaShop | 12 | 8.2 | Gratis | [ficha](https://addons.prestashop.com/en/paid-advertising/18716-microsoft-google-meta-ads-data-feed-optimization.html) |
 | `ph_relatedposts` | Related Posts (PrestaHome) | www.PrestaHome.com | 12 | 8.1, 8.2 | Gratis (sin confirmar) | — |
 | `psxmarketingwithgoogle` | — | care-center.prestashop.com | 10 | 8.2 | Gratis | [ficha](https://care-center.prestashop.com/gb/prestashop-marketing/767-prestashop-marketing-with-google.html) |
-| `redsysoficial` | Redsys oficial | — | 10 | — | Gratis (sin confirmar) | — |
-| `dboptimization` | Database Optimization (MyPrest | MyPresta.eu | 9 | 8.1, 8.2 | Gratis | [ficha](https://mypresta.eu/modules/administration-tools/database-optimization.html) |
+| `redsysoficial` | Redsys oficial | REDSYS | 10 | — | Gratis (sin confirmar) | — |
+| `dboptimization` | Database Optimization (MyPresta) | MyPresta.eu | 9 | 8.1, 8.2 | Gratis | [ficha](https://mypresta.eu/modules/administration-tools/database-optimization.html) |
 | `exportpro` | Export Pro (Oavea) | Oavea - oavea.com | 9 | 8.1, 8.2 | Gratis (sin confirmar) | — |
-| `presta_resend_order_conf_email` | Reenviar correo de confirmacio | Ajax Z | 9 | 8.2 | Gratis | [ficha](https://github.com/blastanders/Prestashop-Resend-Order-Confirmation-Email) |
+| `presta_resend_order_conf_email` | Reenviar correo de confirmación (Ajax Z) | Ajax Z | 9 | 8.2 | Gratis | [ficha](https://github.com/blastanders/Prestashop-Resend-Order-Confirmation-Email) |
 | `whatsapp` | WhatsApp Live Chat (fyazilim) | fyazilim.com | 9 | 8.1, 8.2 | Gratis | [ficha](https://www.fyazilim.com/en/free-prestashop-modules/17-whatsapp-live-chat.html) |
 | `deleteordersfree` | Delete Orders Free (MyPresta) | MyPresta.eu | 8 | — | Gratis | [ficha](https://mypresta.eu/modules/administration-tools/delete-orders-free.html) |
 | `litespeedcache` | — | — | 8 | 8.1, 8.2 | Gratis (sin confirmar) | — |
@@ -148,7 +242,7 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `paytpv` | — | docs.paycomet.com | 4 | 8.2 | Gratis | [ficha](https://docs.paycomet.com/en/modulos-de-pago/prestashop) |
 | `sequracheckout` | — | addons.prestashop.com | 4 | — | Gratis | [ficha](https://addons.prestashop.com/en/buy-now-pay-later/91406-sequra-payments.html) |
 | `sequrapayment` | — | addons.prestashop.com | 4 | — | Gratis | [ficha](https://addons.prestashop.com/en/buy-now-pay-later/91406-sequra-payments.html) |
-| `smartsupp` | — | smartsupp.com | 4 | 8.2 | Gratis | [ficha](https://www.smartsupp.com/) |
+| `smartsupp` | smartsupp | Smartsupp | 4 | 8.2 | Gratis | [ficha](https://www.smartsupp.com/) |
 | `autoupgrade_1` | — | github.com | 3 | — | Gratis | [ficha](https://github.com/PrestaShop/autoupgrade) |
 | `ceca` | — | — | 3 | 8.2 | Gratis (sin confirmar) | — |
 | `cecabank` | — | — | 3 | 8.2 | Gratis (sin confirmar) | — |
@@ -176,14 +270,14 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `homefeatured` | — | — | 2 | — | Gratis (sin confirmar) | — |
 | `ht_scrolltop` | — | hiddentechies.com | 2 | — | Gratis | [ficha](https://www.hiddentechies.com/scroll-top-prestashop-module.html) |
 | `ht_themeloader` | — | — | 2 | — | Gratis (sin confirmar) | — |
-| `lgfreeshippingzones` | — | lineagrafica.es | 2 | 8.2 | Gratis | [ficha](https://www.lineagrafica.es/en/products/prestashop-module-free-shipping-zone-carrier-weight-price) |
+| `lgfreeshippingzones` | lgfreeshippingzones | Línea Gráfica | 2 | 8.2 | Gratis | [ficha](https://www.lineagrafica.es/en/products/prestashop-module-free-shipping-zone-carrier-weight-price) |
 | `loyalty` | — | github.com | 2 | 8.2 | Gratis | [ficha](https://github.com/PrestaShop/ps_loyalty) |
 | `nacex` | — | — | 2 | 8.2 | Gratis (sin confirmar) | — |
 | `netreviews.zip` | — | — | 2 | — | Gratis (sin confirmar) | — |
 | `newsletter` | — | — | 2 | — | Gratis (sin confirmar) | — |
 | `paytpv1` | — | docs.paycomet.com | 2 | 8.2 | Gratis | [ficha](https://docs.paycomet.com/en/modulos-de-pago/prestashop) |
 | `paytpv_3` | — | docs.paycomet.com | 2 | 8.2 | Gratis | [ficha](https://docs.paycomet.com/en/modulos-de-pago/prestashop) |
-| `rediscache` | Redis cache (Planet-Work) | Frédéric VANNIÈRE - Planet | 2 | 8.2 | Gratis | [ficha](https://github.com/fvanniere/prestashop-redis-cache) |
+| `rediscache` | Redis cache (Planet-Work) | Frédéric VANNIÈRE - Planet-Work | 2 | 8.2 | Gratis | [ficha](https://github.com/fvanniere/prestashop-redis-cache) |
 | `redsysdeferred` | — | canales.redsys.es | 2 | — | Gratis | [ficha](https://canales.redsys.es/) |
 | `redsysinsite` | — | — | 2 | 8.2 | Gratis (sin confirmar) | — |
 | `redsysoficial1` | — | packlink.com | 2 | — | Gratis | [ficha](https://packlink.com/en-GB/blog/how-to-configure-redsys-module-for-prestashop) |
@@ -229,10 +323,10 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `codwfeeplus` | — | — | 1 | — | Gratis (sin confirmar) | — |
 | `cofidis` | — | — | 1 | 8.2 | Gratis (sin confirmar) | — |
 | `columnadverts` | — | — | 1 | — | Gratis (sin confirmar) | — |
-| `correosoficial` | Correos y Correos Express ofic | — | 1 | — | Gratis (sin confirmar) | — |
+| `correosoficial` | Correos y Correos Express oficial | — | 1 | — | Gratis (sin confirmar) | — |
 | `correosoficial88` | — | — | 1 | — | Gratis (sin confirmar) | — |
 | `criteo` | — | addons.prestashop.com | 1 | 8.2 | Gratis | [ficha](https://addons.prestashop.com) |
-| `crossselling` | — | docs.prestashop-project.or | 1 | — | Gratis | [ficha](https://docs.prestashop-project.org/) |
+| `crossselling` | — | docs.prestashop-project.org | 1 | — | Gratis | [ficha](https://docs.prestashop-project.org/) |
 | `crossselling_mod` | — | — | 1 | — | Gratis (sin confirmar) | — |
 | `datalayertagmanager_5` | — | — | 1 | 8.2 | Gratis (sin confirmar) | — |
 | `displayordercarrier` | — | github.com | 1 | 8.2 | Gratis | [ficha](https://github.com/Matt75/displayordercarrier) |
@@ -305,6 +399,7 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `productscategory` | — | — | 1 | — | Gratis (sin confirmar) | — |
 | `productsmanufacturer` | — | — | 1 | — | Gratis (sin confirmar) | — |
 | `producttooltip` | — | — | 1 | — | Gratis (sin confirmar) | — |
+| `ps_searchbarjqauto` | Buscador con autocompletado (nativo) | Prestarocket | 1 | — | Gratis | [ficha](https://github.com/PrestaShop/ps_searchbarjqauto) |
 | `readordersmirakl_ecom` | — | — | 1 | — | Gratis (sin confirmar) | — |
 | `redsys156.zip` | — | — | 1 | 8.2 | Gratis (sin confirmar) | — |
 | `redsys17` | — | github.com | 1 | — | Gratis | [ficha](https://github.com/delafuentebayo/redsys-prestashop-module) |
@@ -345,7 +440,7 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `upscarrier` | — | inmotionhosting.com | 1 | — | Gratis | [ficha](https://www.inmotionhosting.com/support/edu/prestashop/configure-ups-carrier/) |
 | `uspscarrier` | — | — | 1 | — | Gratis (sin confirmar) | — |
 | `v2.0.24-sendcloudv2.zip` | — | sendcloud.com | 1 | — | Gratis | [ficha](https://www.sendcloud.com/app/prestashop/) |
-| `vatchecker` | — | github.com | 1 | 8.2 | Gratis | [ficha](https://github.com/kapytanhook/vatchecker) |
+| `vatchecker` | vatchecker | Inform-All & Keraweb | 1 | 8.2 | Gratis | [ficha](https://github.com/kapytanhook/vatchecker) |
 | `vatnumber` | — | — | 1 | — | Gratis (sin confirmar) | — |
 | `verticalblockcategories` | — | — | 1 | — | Gratis (sin confirmar) | — |
 | `viabill_1` | — | — | 1 | — | Gratis (sin confirmar) | — |
@@ -359,7 +454,7 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `xprtblockfacebook` | — | packagist.org | 1 | — | Gratis | [ficha](https://packagist.org/packages/prestashop/blockfacebook) |
 | `zencom` | — | — | 1 | — | Gratis (sin confirmar) | — |
 
-## 3. Terceros SIN dato público (803)
+## 3. Terceros SIN dato público (797)
 
 | Módulo | Comercial | Desarrollador | Tiendas | PrestaShop | Coste | Enlace |
 |---|---|---|---|---|---|---|
@@ -406,7 +501,7 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `facebookconversiontrackingplus` | — | — | 3 | 8.2 | — | — |
 | `featuredcategory` | — | — | 3 | — | — | — |
 | `gformbuilderpro` | — | — | 3 | — | — | — |
-| `groupinc` | — | — | 3 | — | — | — |
+| `groupinc` | groupinc | idnovate | 3 | — | — | — |
 | `hsmultiaccessoriespro` | — | discover.commoninja.com | 3 | 8.2 | — | [ficha](https://discover.commoninja.com/prestashop/module/23426-multi-accessories-pro) |
 | `idxrcustomcontentpro` | — | — | 3 | 8.2 | — | — |
 | `ordersexport` | — | — | 3 | 8.2 | — | — |
@@ -420,7 +515,6 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `_prettyurls` | — | — | 2 | — | — | — |
 | `absfrequentlyboughttogether` | — | — | 2 | — | — | — |
 | `addimagesfromftp` | — | — | 2 | — | — | — |
-| `addstateorder` | — | — | 2 | 8.2 | — | — |
 | `advancedpopupcreator` | — | — | 2 | 8.2 | — | — |
 | `alcagtmplus` | — | — | 2 | 8.2 | — | — |
 | `alcaminqtybyprod` | — | — | 2 | 8.2 | — | — |
@@ -483,7 +577,6 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `jscomposer` | — | codecanyon.net | 2 | — | — | [ficha](https://codecanyon.net/search/visual%20composer%20addon) |
 | `lisfeatureswithlink` | — | — | 2 | — | — | — |
 | `llmsgenerator_1` | — | — | 2 | 8.2 | — | — |
-| `llmsgenerator_ecom` | — | — | 2 | 8.2 | — | — |
 | `llmsgenerator_ecom_1` | — | — | 2 | 8.2 | — | — |
 | `lyopageeditor1` | — | — | 2 | 8.2 | — | — |
 | `megaproduct` | — | alabazweb.com | 2 | 8.2 | — | [ficha](https://www.alabazweb.com/en/personalización-productos/21-sales-of-products-for-m2-m3-linear-and-decimal-prestashop-module.html) |
@@ -509,7 +602,7 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `revsliderprestashop1_` | — | classydevs.com | 2 | — | — | [ficha](https://classydevs.com/prestashop-product-slider) |
 | `richsnippets` | — | — | 2 | — | — | — |
 | `rkrerpupload` | — | — | 2 | — | — | — |
-| `rkrlastprice` | — | — | 2 | — | — | — |
+| `rkrlastprice` | rkrlastprice | Rekire | 2 | — | — | — |
 | `rkrrelational` | — | — | 2 | — | — | — |
 | `rkrstockneed` | — | — | 2 | — | — | — |
 | `sayezantibot` | — | — | 2 | — | — | — |
@@ -520,7 +613,6 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `sfkcookiebanner` | — | — | 2 | — | — | — |
 | `showandchange_ecom` | — | — | 2 | — | — | — |
 | `sincronizarconmaster` | — | — | 2 | — | — | — |
-| `sitemap_combinations` | — | — | 2 | — | — | — |
 | `sitemapimagenes` | — | — | 2 | — | — | — |
 | `soycontrolcookies` | — | — | 2 | — | — | — |
 | `soyfeedpersonalizado` | — | — | 2 | — | — | — |
@@ -862,7 +954,6 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `infinitescrolldw` | — | — | 1 | — | — | — |
 | `instrucciones-v011.txt` | — | — | 1 | 8.2 | — | — |
 | `interseo` | — | — | 1 | 8.2 | — | — |
-| `invoicemod` | — | — | 1 | — | — | — |
 | `ipproductnavigator` | — | — | 1 | 8.2 | — | — |
 | `kbebay` | — | knowband.com | 1 | — | — | [ficha](https://knowband.com/prestashop-ebay-marketplace-integration) |
 | `kbrelatedproducts` | — | knowband.com | 1 | — | — | [ficha](https://www.knowband.com/prestashop-automatic-related-products) |
@@ -1007,10 +1098,8 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `revsliderprestashop1` | — | — | 1 | 8.2 | — | — |
 | `revsliderprestashop_1` | — | classydevs.com | 1 | — | — | [ficha](https://classydevs.com/slider-revolution-prestashop/) |
 | `revsliderprestashop_old` | — | classydevs.com | 1 | 8.2 | — | [ficha](https://classydevs.com/docs/slider-revolution-6-prestashop/quick-setup/install-activate/) |
-| `rightofwithdrawal` | — | — | 1 | 8.2 | — | — |
 | `rkrregistroampliado1` | — | — | 1 | — | — | — |
 | `rkrregistroampliado2` | — | — | 1 | — | — | — |
-| `rkrtaxround` | — | — | 1 | 8.2 | — | — |
 | `rx_googlestructureddata` | — | — | 1 | — | — | — |
 | `salchialerts` | — | — | 1 | 8.2 | — | — |
 | `salchibackinstock` | — | — | 1 | 8.2 | — | — |
@@ -1086,11 +1175,11 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `soyresponsiveslider` | — | — | 1 | — | — | — |
 | `soyseomicrodatos` | — | — | 1 | — | — | — |
 | `spblockcart` | — | — | 1 | — | — | — |
-| `spblocktags` | — | documentation.magentech.co | 1 | — | — | [ficha](https://documentation.magentech.com/sp-custom-html-1-7-x) |
+| `spblocktags` | — | documentation.magentech.com | 1 | — | — | [ficha](https://documentation.magentech.com/sp-custom-html-1-7-x) |
 | `spblockuserinfo` | — | — | 1 | — | — | — |
 | `spcustomhtml` | — | — | 1 | — | — | — |
 | `spdeal` | — | — | 1 | — | — | — |
-| `spextraslider` | — | documentation.magentech.co | 1 | — | — | [ficha](https://documentation.magentech.com/sp-extra-slider-1-7-x) |
+| `spextraslider` | — | documentation.magentech.com | 1 | — | — | [ficha](https://documentation.magentech.com/sp-extra-slider-1-7-x) |
 | `splistingtabs` | — | — | 1 | — | — | — |
 | `spmanufactureslider` | — | — | 1 | — | — | — |
 | `spmegamenu` | — | codecanyon.net | 1 | — | — | [ficha](https://codecanyon.net/item/sp-vertical-mega-menu-responsive-module/11556278) |
@@ -1167,7 +1256,7 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `zapier` | — | — | 1 | — | — | — |
 | `zen_homebanners_bottom` | — | — | 1 | — | — | — |
 
-## 4. Propios, de plantilla y de PrestaShop (522)
+## 4. Propios, de plantilla y de PrestaShop (527)
 
 | Módulo | Comercial | Desarrollador | Tiendas | PrestaShop | Coste | Enlace |
 |---|---|---|---|---|---|---|
@@ -1256,9 +1345,9 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `ets_megamenu` | — | — | 4 | 8.2 | Incluido con la plantilla | — |
 | `iqitproductflags` | iqitproductflags | iqit-commerce.com | 4 | 8.1, 8.2 | Incluido con la plantilla | — |
 | `iqitproductvariants` | — | — | 4 | 8.1, 8.2 | Incluido con la plantilla | — |
-| `stcolorname` | — | — | 4 | 8.2 | Incluido con la plantilla | — |
+| `stcolorname` | stcolorname | SUNNYTOO.COM | 4 | 8.2 | Incluido con la plantilla | — |
 | `stgrecaptcha` | — | — | 4 | 8.2 | Incluido con la plantilla | — |
-| `stprothumbgroup` | — | — | 4 | 8.2 | Incluido con la plantilla | — |
+| `stprothumbgroup` | stprothumbgroup | SUNNYTOO.COM | 4 | 8.2 | Incluido con la plantilla | — |
 | `stprovideos` | — | — | 4 | 8.2 | Incluido con la plantilla | — |
 | `ets_contactform7` | — | — | 3 | — | Incluido con la plantilla | — |
 | `ets_superspeed` | — | — | 3 | 8.2 | Incluido con la plantilla | — |
@@ -1268,7 +1357,7 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `stnoimage` | stnoimage | SUNNYTOO.COM | 3 | 8.1, 8.2 | Incluido con la plantilla | — |
 | `storeggmap` | — | — | 3 | — | Incluido con la plantilla | — |
 | `stproductcommentspro` | — | — | 3 | 8.2 | Incluido con la plantilla | — |
-| `sturls` | PrestaShop removing IDs from U | SUNNYTOO.COM | 3 | 8.2 | Incluido con la plantilla | — |
+| `sturls` | PrestaShop removing IDs from URLs & SEO friendly url module. | SUNNYTOO.COM | 3 | 8.2 | Incluido con la plantilla | — |
 | `ets_abandonedcart` | — | — | 2 | — | Incluido con la plantilla | — |
 | `ets_banneranywhere` | — | — | 2 | 8.2 | Incluido con la plantilla | — |
 | `ets_cookie_banner` | — | — | 2 | 8.1 | Incluido con la plantilla | — |
@@ -1293,7 +1382,7 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `storecommanderps` | — | — | 2 | — | Incluido con la plantilla | — |
 | `stwebp` | stwebp | SUNNYTOO.COM | 2 | 8.2 | Incluido con la plantilla | — |
 | `wkproductlabel` | — | — | 2 | — | Incluido con la plantilla | — |
-| `ets_advancedcaptcha` | — | — | 1 | 8.2 | Incluido con la plantilla | — |
+| `ets_advancedcaptcha` | ets_advancedcaptcha | PrestaHero | 1 | 8.2 | Incluido con la plantilla | — |
 | `ets_affiliatemarketing` | — | — | 1 | — | Incluido con la plantilla | — |
 | `ets_ageverification` | — | — | 1 | 8.1 | Incluido con la plantilla | — |
 | `ets_countdown` | — | — | 1 | — | Incluido con la plantilla | — |
@@ -1468,23 +1557,22 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `ps_eventbus` | ps_eventbus | PrestaShop | 30 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
 | `welcome` | — | — | 30 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
 | `ps_mbo` | ps_mbo | PrestaShop | 29 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
-| `autoupgrade` | autoupgrade | PrestaShop | 26 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
+| `autoupgrade` | 7.6.5 | gratuito de PrestaShop (lo dice su autor: PrestaShop) | 26 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
 | `ps_checkout` | ps_checkout | PrestaShop | 25 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
-| `psaddonsconnect` | psaddonsconnect | PrestaShop | 25 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
-| `statslive` | — | — | 24 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
-| `ps_buybuttonlite` | ps_buybuttonlite | PrestaShop | 23 | 8.2 | Gratis (de PrestaShop) | — |
-| `statsvisits` | — | — | 22 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
+| `psaddonsconnect` | 2.1.2 | gratuito de PrestaShop (lo dice su autor: PrestaShop) | 25 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
+| `statslive` | 2.1.0 | gratuito de PrestaShop (lo dice su autor: PrestaShop) | 24 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
+| `ps_buybuttonlite` | 1.0.1 | gratuito de PrestaShop (lo dice su autor: PrestaShop) | 23 | 8.2 | Gratis (de PrestaShop) | — |
+| `statsvisits` | 2.0.2 | gratuito de PrestaShop (lo dice su autor: PrestaShop) | 22 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
 | `gamification` | gamification | PrestaShop | 21 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
 | `ps_brandlist` | — | — | 21 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
 | `ps_cashondelivery` | — | — | 21 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
 | `ps_supplierlist` | — | — | 21 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
-| `sekeywords` | — | — | 21 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
-| `statsequipment` | — | — | 21 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
-| `statsorigin` | — | — | 21 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
+| `sekeywords` | 2.0.0 | gratuito de PrestaShop (lo dice su autor: PrestaShop) | 21 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
+| `statsequipment` | 2.0.0 | gratuito de PrestaShop (lo dice su autor: PrestaShop) | 21 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
+| `statsorigin` | 2.0.2 | gratuito de PrestaShop (lo dice su autor: PrestaShop) | 21 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
 | `ps_distributionapiclient` | — | — | 19 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
 | `ps_facebook` | — | — | 18 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
 | `pscleaner` | pscleaner | PrestaShop | 15 | 8.2 | Gratis (de PrestaShop) | — |
-| `emarketing` | PrestaShop Ads (oficial) | emarketing | 12 | 8.2 | Gratis (de PrestaShop) | [ficha](https://addons.prestashop.com/en/paid-advertising/18716-microsoft-google-meta-ads-data-feed-optimization.html) |
 | `ps_legalcompliance` | — | — | 11 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
 | `ps_metrics` | ps_metrics | PrestaShop | 11 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
 | `cronjobs` | — | — | 10 | 8.1, 8.2 | Gratis (de PrestaShop) | — |
@@ -1585,7 +1673,6 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `ps_mbo.zip` | — | — | 1 | — | Gratis (de PrestaShop) | — |
 | `ps_metrics.zip` | — | — | 1 | — | Gratis (de PrestaShop) | — |
 | `ps_rolycatalogmanager` | — | — | 1 | 8.1 | Gratis (de PrestaShop) | — |
-| `ps_searchbarjqauto` | Buscador con autocompletado (n | Prestarocket | 1 | — | Gratis (de PrestaShop) | [ficha](https://github.com/PrestaShop/ps_searchbarjqauto) |
 | `ps_update` | — | — | 1 | — | Gratis (de PrestaShop) | — |
 | `psaddonsconnect.zip` | — | — | 1 | — | Gratis (de PrestaShop) | — |
 | `pscartabandonmentpro` | pscartabandonmentpro | PrestaShop | 1 | — | Gratis (de PrestaShop) | — |
@@ -1608,14 +1695,14 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `sendagainalertmail` | sendagainalertmail | ecomyseo | 13 | 8.1, 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `ecom_shield` | ecom_shield | Ecom Experts | 12 | 8.1, 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `ecom_desestimiento` | ecom_desestimiento | Ecom Experts | 10 | 8.1, 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
-| `ecom_redis` | — | Ecom Experts | 9 | 8.1, 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
+| `ecom_redis` | ecom_redis | Ecom Experts | 9 | 8.1, 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `exportproducts` | exportproducts | ecomyseo | 8 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `prestaanalytics` | prestaanalytics | Ecom Experts | 6 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `ps_translationfinder` | ps_translationfinder | Ecom Experts | 6 | 8.1, 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `addterms` | addterms | ecomyseo | 5 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `ecom_statsbots` | ecom_statsbots | Ecom Experts | 5 | 8.1, 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `ecom_odooconnect` | — | Ecom Experts | 4 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
-| `ecom_search` | ecom_search | Ecom Experts | 4 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
+| `ecom_search` | ecom_search | gmartos | 4 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `asociarcategoriapadre` | asociarcategoriapadre | ecomyseo | 3 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `ecom_blockbot` | — | Ecom Experts | 3 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `ecom_cleanimages` | ecom_cleanimages | Ecom Experts | 3 | 8.1, 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
@@ -1625,10 +1712,11 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `merchantoptintegration` | merchantoptintegration | ecomyseo | 3 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `showemailswaitstock` | showemailswaitstock | ecomyseo | 3 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `addcupondesdeurl` | addcupondesdeurl | ecomyseo | 2 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
+| `addstateorder` | addstateorder | ecomyseo | 2 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `carrefourhelpfile` | carrefourhelpfile | ecomyseo | 2 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `ecom_calculateshipping` | ecom_calculateshipping | Ecom Experts | 2 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `ecom_captchaent` | — | Ecom Experts | 2 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
-| `ecom_checkmd5` | ecom_checkmd5 | Ecom Experts | 2 | — | Propio (gratis) | [ficha](https://gmartos.es) |
+| `ecom_checkmd5` | Módulo de control de integridad para PrestaShop, Conoce en minutos modificaciones en los ficheros. | Ecom Experts | 2 | — | Propio (gratis) | [ficha](https://gmartos.es/producto/control-de-integridad-para-prestashop-si-te-tocan-un-fichero-lo-sabes-en-minutos-no-en-tres-semanas/) |
 | `ecom_featuresbyia` | — | Ecom Experts | 2 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `ecom_featuresbyia_1` | — | Ecom Experts | 2 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `ecom_log_events` | — | Ecom Experts | 2 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
@@ -1637,13 +1725,15 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `ecom_secadmin` | ecom_secadmin | Ecom Experts | 2 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `ecom_traceerrors` | — | Ecom Experts | 2 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `list_products_orders` | list_products_orders | ecomyseo | 2 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
+| `llmsgenerator_ecom` | llmsgenerator_ecom | ecomyseo | 2 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `removeisourldefaultlanguage` | removeisourldefaultlanguage | Ecom Experts | 2 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
+| `sitemap_combinations` | sitemap_combinations | ecomyseo | 2 | — | Propio (gratis) | [ficha](https://gmartos.es) |
 | `alertproductcart` | alertproductcart | ecomyseo | 1 | — | Propio (gratis) | [ficha](https://gmartos.es) |
 | `botonadminwhatsapp` | botonadminwhatsapp | ecomyseo | 1 | — | Propio (gratis) | [ficha](https://gmartos.es) |
 | `canonicalcats` | canonicalcats | ecomyseo | 1 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `checknewsletteremail` | checknewsletteremail | ecomyseo | 1 | — | Propio (gratis) | [ficha](https://gmartos.es) |
 | `combislist` | combislist | ecomyseo | 1 | — | Propio (gratis) | [ficha](https://gmartos.es) |
-| `ecom_abandcarts` | Ecom Abandoned Carts AI | Ecom Experts | 1 | 8.1 | Propio (gratis) | [ficha](https://gmartos.es) |
+| `ecom_abandcarts` | Abandcarts AI · Recuperador de carritos para PrestaShop | Ecom Experts | 1 | 8.1 | Propio (gratis) | [ficha](https://gmartos.es/producto/abandcarts-ai-%c2%b7-recuperador-de-carritos-para-prestashop/) |
 | `ecom_applytax` | — | Ecom Experts | 1 | — | Propio (gratis) | [ficha](https://gmartos.es) |
 | `ecom_attachmailpdf` | — | Ecom Experts | 1 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `ecom_autobarcode` | — | Ecom Experts | 1 | — | Propio (gratis) | [ficha](https://gmartos.es) |
@@ -1689,7 +1779,328 @@ Todos los módulos distintos encontrados al conectar por FTP/SFTP a las tiendas.
 | `ecom_tredding` | — | Ecom Experts | 1 | — | Propio (gratis) | [ficha](https://gmartos.es) |
 | `ecom_turbo` | — | Ecom Experts | 1 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `ecom_vatforceeu` | — | Ecom Experts | 1 | 8.1 | Propio (gratis) | [ficha](https://gmartos.es) |
-| `ecommailcontent` | — | Ecom Experts | 1 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
+| `ecommailcontent` | ecommailcontent | Ecom Experts | 1 | 8.2 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `ecomofuscar` | ecomofuscar | Ecom Experts | 1 | 8.1 | Propio (gratis) | [ficha](https://gmartos.es) |
 | `ecomofuscar1` | — | Ecom Experts | 1 | 8.1 | Propio (gratis) | [ficha](https://gmartos.es) |
+| `invoicemod` | invoicemod | ecomyseo | 1 | — | Propio (gratis) | [ficha](https://gmartos.es) |
 | `showtaxescart` | showtaxescart | ecomyseo | 1 | 8.1 | Propio (gratis) | [ficha](https://gmartos.es) |
+| `ecom_factusol` | Conector FactuSOL para PrestaShop: pedidos, precios, existencias y facturas | Ecom Experts | 0 | — | Propio (gratis) | [ficha](https://gmartos.es/producto/conector-factusol-prestashop/) |
+| `ecom_listastrabajo` | Listas de la compra por trabajo con IA para PrestaShop | Ecom Experts | 0 | — | Propio (gratis) | [ficha](https://gmartos.es/producto/listas-compra-por-trabajo-ia-prestashop/) |
+| `ecom_montatucaja` | Monta tu caja: packs a elegir con descuento para PrestaShop | Ecom Experts | 0 | — | Propio (gratis) | [ficha](https://gmartos.es/producto/monta-tu-caja-packs-a-elegir-con-descuento-para-prestashop/) |
+
+## 5. Referencias comerciales de fabricantes
+
+Productos y servicios publicados por los fabricantes. Solo se incorporan a las fichas técnicas los identificadores acreditados. El resto conserva su nombre comercial y enlace, sin inventar una correspondencia. El PVP de los productos propios es informativo: su licencia para el cliente sigue siendo de 0 €.
+
+### Ecom Experts · gmartos.es
+
+| Producto o servicio | Identificador acreditado | Precio de referencia | Fuente |
+|---|---|---|---|
+| 10 Horas – Asistencia técnica a PrestaShop. | Sin identificar | 495.00 € · PVP publicado | [ficha](https://gmartos.es/producto/10-horas-asistencia-tecnica-prestashop/) |
+| 2FA Secure Login Pro para Prestashop multi usuario y empleado | Sin identificar | 25.00 € · PVP publicado | [ficha](https://gmartos.es/producto/2fa-secure-login-pro-para-prestashop-multi-usuario-y-empleado/) |
+| 30 Horas – Asistencia técnica a PrestaShop | Sin identificar | 1100.00 € · PVP publicado | [ficha](https://gmartos.es/producto/30-horas-asistencia-tecnica-prestashop/) |
+| 5 Horas – Asistencia técnica por packs | Sin identificar | 280.00 € · PVP publicado | [ficha](https://gmartos.es/producto/5-horas-asistencia-tecnica-packs/) |
+| Abandcarts AI · Recuperador de carritos para PrestaShop | `ecom_abandcarts` | 65.00 € · PVP publicado | [ficha](https://gmartos.es/producto/abandcarts-ai-%c2%b7-recuperador-de-carritos-para-prestashop/) |
+| Actualizar el impuesto de productos asociados a categorías | Sin identificar | 0.00 € · PVP publicado | [ficha](https://gmartos.es/producto/actualizar-impuesto-productos-asociados-categorias/) |
+| Advanced Search & Filters Pro para Prestashop | Sin identificar | 100.00 € · PVP publicado | [ficha](https://gmartos.es/producto/advanced-search-filters-pro-para-prestashop/) |
+| AI Product Image Studio (Imágenes IA para PrestaShop) | Sin identificar | 125.00 € · PVP publicado | [ficha](https://gmartos.es/producto/ai-product-image-studio-imagenes-ia-para-prestashop/) |
+| Alerta de módulo instalado | Sin identificar | 0.00 € · PVP publicado | [ficha](https://gmartos.es/producto/alerta-de-modulo-instalado/) |
+| Alerta de uso de varios transportistas para enviar pedido en el checkout y carrito de PrestaShop | Sin identificar | 75.00 € · PVP publicado | [ficha](https://gmartos.es/producto/alerta-uso-varios-transportistas-enviar-pedido-checkout-carrito-prestashop/) |
+| Alta y gestión de comerciales o comisionistas para PrestaShop | Sin identificar | 120.00 € · PVP publicado | [ficha](https://gmartos.es/producto/alta-gestion-comerciales-comisionistas-prestashop/) |
+| Ampliación de Desarrollo de módulo | Sin identificar | 50.00 € · PVP publicado | [ficha](https://gmartos.es/producto/ampliacion-desarrollo-modulo/) |
+| Añade un botón en pedido para chatear por whatsapp con el cliente | Sin identificar | 30.00 € · PVP publicado | [ficha](https://gmartos.es/producto/anade-boton-pedido-chatear-whatsapp-cliente/) |
+| Muestra información si ha comprado el producto con anterioridad o si esta en el carrito | Sin identificar | 100.00 € · PVP publicado | [ficha](https://gmartos.es/producto/anade-cuadro-informativo-del-producto-ya-esta-carrito/) |
+| Añade un cupón utilizando la url de la tienda | Sin identificar | 10.00 € · PVP publicado | [ficha](https://gmartos.es/producto/anade-un-cupon-utilizando-la-url-de-la-tienda/) |
+| Añadir coste adicional de transporte a productos por categoría | Sin identificar | 40.00 € · PVP publicado | [ficha](https://gmartos.es/producto/anadir-coste-transporte-productos-categoria/) |
+| Añadir un descuento cuando el stock o combinaciones disponibles es menor al indicado | Sin identificar | 85.00 € · PVP publicado | [ficha](https://gmartos.es/producto/anadir-descuento-cuando-stock-combinaciones-disponibles-menor-al-indicado/) |
+| Añadir un estado de pedido automáticamente para PrestaShop | Sin identificar | 45.00 € · PVP publicado | [ficha](https://gmartos.es/producto/anadir-estado-pedido-automaticamente-prestashop/) |
+| Añadir un nombre personalizado a las combinaciones de producto | Sin identificar | 125.00 € · PVP publicado | [ficha](https://gmartos.es/producto/anadir-nombre-personalizado-las-combinaciones-producto/) |
+| Añadir pros y contras a los productos de Prestashop con datos estructurados incluidos | Sin identificar | 49.99 € · PVP publicado | [ficha](https://gmartos.es/producto/anadir-pros-contras-los-productos-prestashop-datos-estructurados-incluidos/) |
+| Añadir términos y condiciones adicionales a PrestaShop | Sin identificar | 65.00 € · PVP publicado | [ficha](https://gmartos.es/producto/anadir-terminos-condiciones-adicionales-prestashop/) |
+| Asistente de compra rápida con botón flotante y ventana emergente de 5 pasos | Sin identificar | 75.00 € · PVP publicado | [ficha](https://gmartos.es/producto/asistente-de-compra-rapida-con-boton-flotante-y-ventana-emergente-de-5-pasos/) |
+| Asociar productos a categorías padre de su categoría por defecto – Prestashop – Gratis | Sin identificar | 0.00 € · PVP publicado | [ficha](https://gmartos.es/producto/asociar-productos-categorias-padre-categoria-defecto-prestashop-gratis/) |
+| Asociar productos y sus combinaciones para que tengan el mismo stock entre ellas | Sin identificar | 130.00 € · PVP publicado | [ficha](https://gmartos.es/producto/asociar-productos-y-sus-combinaciones-para-que-tengan-el-mismo-stock-entre-ellas/) |
+| Aumento del coste de Envío Por País sumando % del carrito | Sin identificar | 45.00 € · PVP publicado | [ficha](https://gmartos.es/producto/aumento-del-coste-de-envio-por-pais-sumando-del-carrito/) |
+| Avisos de Recompra Recurrente por producto, categoría y meses para PrestaShop | Sin identificar | 65.00 € · PVP publicado | [ficha](https://gmartos.es/producto/avisos-de-reposicion-por-producto-categoria-y-meses-para-prestashop/) |
+| Barra de progreso en ficha del producto, usando característica o añadiendo barras a productos | Sin identificar | 45.00 € · PVP publicado | [ficha](https://gmartos.es/producto/barra-progreso-ficha-del-producto-usando-caracteristica-anadiendo-barras-productos/) |
+| Bloquear bots en formularios para PrestaShop sin captcha | Sin identificar | 55.00 € · PVP publicado | [ficha](https://gmartos.es/producto/bloquear-bots-en-formularios-para-prestashop-sin-captcha/) |
+| Bloquear bots en filtros y URLs con parámetros para PrestaShop | Sin identificar | 85.00 € · PVP publicado | [ficha](https://gmartos.es/producto/bloquear-bots-filtros-prestashop/) |
+| Bloquear el poder modificar el NIF/CIF de la dirección cuando ya esta rellenado. | Sin identificar | 10.00 € · PVP publicado | [ficha](https://gmartos.es/producto/bloquear-poder-modificar-nif-cif-la-direccion-cuando-ya-esta-rellenado/) |
+| Calcula el coste de transporte en el carrito | Sin identificar | 90.00 € · PVP publicado | [ficha](https://gmartos.es/producto/calcula-coste-transporte-carrito/) |
+| Calculo de precio unidad usando peso neto | Sin identificar | 75.00 € · PVP publicado | [ficha](https://gmartos.es/producto/calculo-precio-unidad-usando-peso-neto/) |
+| Capas del colchón con grosor y porcentaje para PrestaShop | Sin identificar | 75.00 € · PVP publicado | [ficha](https://gmartos.es/producto/capas-del-colchon-prestashop/) |
+| Clientes Frecuentes Plus para PrestaShop | Sin identificar | 50.00 € · PVP publicado | [ficha](https://gmartos.es/producto/clientes-frecuentes-plus-para-prestashop/) |
+| Comerciales B2B para PrestaShop: piden por sus clientes | Sin identificar | 95.00 € · PVP publicado | [ficha](https://gmartos.es/producto/comerciales-b2b-para-prestashop-piden-por-sus-clientes/) |
+| Comprobación de fallos, errores y auditoria de «profiling» | Sin identificar | 75.00 € · PVP publicado | [ficha](https://gmartos.es/producto/comprobacion-de-fallos-errores-y-auditoria-de-profiling/) |
+| Comprueba el email si esta registrado en newsletter al ir al carrito | Sin identificar | 35.00 € · PVP publicado | [ficha](https://gmartos.es/producto/comprueba-email-esta-registrado-newsletter-al-ir-al-carrito/) |
+| Conectar sistema PrestaShop con ERP Odoo – Módulo conector | Sin identificar | 500.00 € · PVP publicado | [ficha](https://gmartos.es/producto/conectar-sistema-prestashop-erp-odoo-modulo-conector/) |
+| Conector FactuSOL para PrestaShop: pedidos, precios, existencias y facturas | `ecom_factusol` | 199.00 € · PVP publicado | [ficha](https://gmartos.es/producto/conector-factusol-prestashop/) |
+| Conector PrestaShop con sistema Mirakl | Sin identificar | 500.00 € · PVP publicado | [ficha](https://gmartos.es/producto/conector-prestashop-sistema-mirakl-envia-ofertas-los-marketplace-precios-stock-lectura-registro-pedidos/) |
+| Configuración de Google analytics 4 , Google analytics 3 y Tag manager | Sin identificar | 35.00 € · PVP publicado | [ficha](https://gmartos.es/producto/configuracion-google-analytics-4-google-analytics-3-tag-manager/) |
+| Módulo de control de integridad para PrestaShop, Conoce en minutos modificaciones en los ficheros. | `ecom_checkmd5` | 99.00 € · PVP publicado | [ficha](https://gmartos.es/producto/control-de-integridad-para-prestashop-si-te-tocan-un-fichero-lo-sabes-en-minutos-no-en-tres-semanas/) |
+| Control de productos eliminados del carrito y creación de cupones | Sin identificar | 135.00 € · PVP publicado | [ficha](https://gmartos.es/producto/control-productos-eliminados-del-carrito-creacion-cupones/) |
+| Descuenta del transporte el resto del cupón descuento cuando el total de productos no supera el descuento | Sin identificar | 25.00 € · PVP publicado | [ficha](https://gmartos.es/producto/descuenta-del-transporte-el-resto-del-cupon-descuento-cuando-el-total-de-productos-no-supera-el-descuento/) |
+| Detectar errores de PrestaShop y guardar en base de datos | Sin identificar | 10.00 € · PVP publicado | [ficha](https://gmartos.es/producto/detectar-errores-de-prestashop-y-guardar-en-base-de-datos/) |
+| Diagnóstico de tienda PrestaShop | Sin identificar | 50.00 € · PVP publicado | [ficha](https://gmartos.es/producto/diagnostico-tienda-prestashop/) |
+| Discount Lab: 3×2, escalados y packs para PrestaShop, con el ROI de cada promocion | Sin identificar | 129.00 € · PVP publicado | [ficha](https://gmartos.es/producto/discount-lab-3x2-escalados-y-packs-para-prestashop-con-el-roi-de-cada-promocion/) |
+| Ecom Checkaddress — Validación de direcciones y códigos postales por país | Sin identificar | 75.00 € · PVP publicado | [ficha](https://gmartos.es/producto/ecom-checkaddress-validacion-de-direcciones-y-codigos-postales-por-pais/) |
+| Módulo Auditor de compatibilidad PrestaShop 8.x y 9.x | Sin identificar | 185.00 € · PVP publicado | [ficha](https://gmartos.es/producto/ecom-compatible-auditor-de-compatibilidad-prestashop-8-x-y-9-x/) |
+| Ecom Lotes y Caducidad — Gestión FEFO, Trazabilidad y Control de Stock por Lote para PrestaShop | Sin identificar | 125.00 € · PVP publicado | [ficha](https://gmartos.es/producto/ecom-lotes-y-caducidad-gestion-fefo-trazabilidad-y-control-de-stock-por-lote-para-prestashop/) |
+| Ecom Magnificus – Motor Q&A con Inteligencia Artificial para PrestaShop | Sin identificar | 100.00 € · PVP publicado | [ficha](https://gmartos.es/producto/ecom-magnificus-motor-qa-con-inteligencia-artificial-para-prestashop/) |
+| Ecom Ofuscar Pro – El Ofuscador de Enlaces Quirúrgico para SEO Élite (PrestaShop 8 & 9) | Sin identificar | 99.00 € · PVP publicado | [ficha](https://gmartos.es/producto/ecom-ofuscar-pro-el-ofuscador-de-enlaces-quirurgico-para-seo-elite-prestashop-8-9/) |
+| Ecom OmniMind solución definitiva de Inteligencia Artificial para PrestaShop | Sin identificar | 275.00 € · PVP publicado | [ficha](https://gmartos.es/producto/ecom-omnimind-solucion-definitiva-de-inteligencia-artificial-para-prestashop/) |
+| Ecom Redis Manager Pro: El motor de caché definitivo para PrestaShop | Sin identificar | 75.00 € · PVP publicado | [ficha](https://gmartos.es/producto/ecom-redis-manager-pro-el-motor-de-cache-definitivo-para-prestashop/) |
+| Ecom Sec Admin — Seguridad avanzada para el back-office de PrestaShop | Sin identificar | 75.00 € · PVP publicado | [ficha](https://gmartos.es/producto/ecom-sec-admin-seguridad-avanzada-para-el-back-office-de-prestashop/) |
+| Ecom Sendmails — Emails inteligentes con tracking, factura y RMA para PrestaShop 1.7 / 8 / 9 | Sin identificar | 65.00 € · PVP publicado | [ficha](https://gmartos.es/producto/ecom-sendmails-emails-inteligentes-con-tracking-factura-y-rma-para-prestashop-1-7-8-9/) |
+| ecomgrabaCAM – Todo el taller de grabado en un solo programa | Sin identificar | 135.00 € · PVP publicado | [ficha](https://gmartos.es/producto/ecomgrabacam-todo-el-taller-de-grabado-en-un-solo-programa/) |
+| Electronic Labels Manager: Cumplimiento Normativa UE & Importación CSV | Sin identificar | 55.00 € · PVP publicado | [ficha](https://gmartos.es/producto/electronic-labels-manager-cumplimiento-normativa-ue-importacion-csv/) |
+| Elimina el ISO del idioma por defecto de la URL principal en Prestashop | Sin identificar | 45.00 € · PVP publicado | [ficha](https://gmartos.es/producto/elimina-iso-del-idioma-defecto-la-url-principal-prestashop/) |
+| Elimina los descuentos del carrito cuando han caducado. | Sin identificar | 45.00 € · PVP publicado | [ficha](https://gmartos.es/producto/elimina-los-descuentos-del-carrito-cuando-han-caducado/) |
+| Eliminar o cambiar fecha de Precio Específico al no haber stock | Sin identificar | 30.00 € · PVP publicado | [ficha](https://gmartos.es/producto/eliminar-cambiar-fecha-precio-especifico-al-no-haber-stock/) |
+| Envía un email con el stock de los productos de un pedido | Sin identificar | 0.00 € · PVP publicado | [ficha](https://gmartos.es/producto/envia-un-email-con-el-stock-de-los-productos-de-un-pedido/) |
+| Enviar aviso por email al cambiar un pedido de estado | Sin identificar | 60.00 € · PVP publicado | [ficha](https://gmartos.es/producto/enviar-aviso-email-al-cambiar-pedido-estado/) |
+| Enviar documentos adjuntos de productos comprados / vendidos | Sin identificar | 85.00 € · PVP publicado | [ficha](https://gmartos.es/producto/enviar-documentos-adjuntos-productos-comprados/) |
+| Exportador de imágenes de producto a ficheros con nombre EAN del producto | Sin identificar | 25.00 € · PVP publicado | [ficha](https://gmartos.es/producto/exportador-imagenes-producto-ficheros-nombre-ean-del-producto/) |
+| Exportar a CSV compatible con Lionshome. Módulo para PrestaShop | Sin identificar | 75.00 € · PVP publicado | [ficha](https://gmartos.es/producto/exportar-csv-compatible-lionshome-modulo-prestashop/) |
+| Extensión para detectar Skimmers de tarjeta (MageCart) | Sin identificar | 35.00 € · PVP publicado | [ficha](https://gmartos.es/producto/extension-para-detectar-skimmers-de-tarjeta-magecart/) |
+| Farmacias y medicamentos – Módulo para mostrar información legal y enlaces PDF de prospectos | Sin identificar | 150.00 € · PVP publicado | [ficha](https://gmartos.es/producto/farmacias-medicamentos-modulo-mostrar-informacion-legal-enlaces-pdf-prospectos/) |
+| Generador de Sitemap de Categorías | Sin identificar | 10.00 € · PVP publicado | [ficha](https://gmartos.es/producto/generador-de-sitemap-de-categorias/) |
+| Generador de Facturas Multilingüe. Imprime facturas en el idioma del cliente | Sin identificar | 70.00 € · PVP publicado | [ficha](https://gmartos.es/producto/generador-facturas-multilingue-imprime-facturas-idioma-del-cliente/) |
+| Generar y añadir código para que todos los sistemas reconozcan el «favicon» | Sin identificar | 30.00 € · PVP publicado | [ficha](https://gmartos.es/producto/generar-anadir-codigo-todos-los-sistemas-reconozcan-favicon/) |
+| Generar ficheros compatibles con sistemas Mirakl para dar de alta productos | Sin identificar | 400.00 € · PVP publicado | [ficha](https://gmartos.es/producto/generar-ficheros-compatibles-sistemas-mirakl-otros-dar-alta-productos/) |
+| Genera un sitemap con url de combinaciones e imágenes asociadas para PrestaShop | Sin identificar | 45.00 € · PVP publicado | [ficha](https://gmartos.es/producto/generar-sitemap-url-combinaciones-e-imagenes-asociadas-prestashop/) |
+| Módulo GPSR PrestaShop | Sin identificar | 150.00 € · PVP publicado | [ficha](https://gmartos.es/producto/gprs-modulo-para-gestionar-la-informacion-y-documentacion-adicional-al-producto-y-fabricante/) |
+| Imágenes Responsive por Dispositivo para Creative Elements (Desktop / Tablet / Móvil) | Sin identificar | 39.00 € · PVP publicado | [ficha](https://gmartos.es/producto/imagenes-responsive-por-dispositivo-para-creative-elements-desktop-tablet-movil/) |
+| Importación de pedidos al sistema Prestashop desde Marketplace que usan el sistema Mirakl | Sin identificar | 250.00 € · PVP publicado | [ficha](https://gmartos.es/producto/importacion-pedidos-al-sistema-prestashop-desde-marketplace-usan-sistema-mirakl/) |
+| Importador PDF a PrestaShop con IA: Catálogos Masivos y SEO Multilingüe | Sin identificar | 150.00 € · PVP publicado | [ficha](https://gmartos.es/producto/importador-pdf-a-prestashop-con-ia-catalogos-masivos-y-seo-multilingue/) |
+| Importar imágenes desde carpeta del servidor (FTP) | Sin identificar | 25.00 € · PVP publicado | [ficha](https://gmartos.es/producto/importar-imagenes-desde-carpeta-del-servidor-ftp/) |
+| Importar productos utilizando la API de Woocommerce | Sin identificar | 350.00 € · PVP publicado | [ficha](https://gmartos.es/producto/importar-productos-utilizando-la-api-woocommerce/) |
+| Informe de exposición digital y filtraciones / Ciberseguridad para empresas | Sin identificar | 75.00 € · PVP publicado | [ficha](https://gmartos.es/producto/informe-exposicion-digital/) |
+| Informe líneas de pedido (categorías + fechas) | Sin identificar | 10.00 € · PVP publicado | [ficha](https://gmartos.es/producto/informe-lineas-de-pedido-categorias-fechas/) |
+| Impuestos por País, OSS, VIES y Same Price EU para PrestaShop 1.7, 8 y 9 | Sin identificar | 75.00 € · PVP publicado | [ficha](https://gmartos.es/producto/iva-igic-e-ipsi-por-pais-para-prestashop-modulo-apply-tax/) |
+| Listado de clientes que esperan a que haya stock de un producto | Sin identificar | 40.00 € · PVP publicado | [ficha](https://gmartos.es/producto/listado-clientes-esperan-haya-stock-producto/) |
+| Listado informativo de atributos en una tabla (compatible con datos estructurados) | Sin identificar | 45.00 € · PVP publicado | [ficha](https://gmartos.es/producto/listado-informativo-atributos-una-tabla/) |
+| Listado de productos por pedido | Sin identificar | 35.00 € · PVP publicado | [ficha](https://gmartos.es/producto/listado-productos-pedido/) |
+| Listas de la compra por trabajo con IA para PrestaShop | `ecom_listastrabajo` | 85.00 € · PVP publicado | [ficha](https://gmartos.es/producto/listas-compra-por-trabajo-ia-prestashop/) |
+| Modificar módulo de Mirakl | Sin identificar | 20.00 € · PVP publicado | [ficha](https://gmartos.es/producto/modificar-modulo-mirakl-nueva-autenticacion/) |
+| Google analytics 4 para PrestaShop con opción de bloqueo de cookies y consent mode V2, Modo Dual GAV3 | Sin identificar | 145.00 € · PVP publicado | [ficha](https://gmartos.es/producto/modulo-conexion-google-analytics-4-utilizando-consent-mode/) |
+| Módulo Derecho de Desistimiento UE 2026 para PrestaShop 8 y 9 | Sin identificar | 95.00 € · PVP publicado | [ficha](https://gmartos.es/producto/modulo-derecho-de-desistimiento-ue-2026-para-prestashop-8-y-9-boton-de-desistimiento-formulario-anexo-b-y-gestion-de-devoluciones/) |
+| Módulo de envío de productos a Zalando + script lectura de pedidos | Sin identificar | 250.00 € · PVP publicado | [ficha](https://gmartos.es/producto/modulo-envio-productos-zalando-script-lectura-pedidos/) |
+| Módulo Mostrar precios mayoristas en detalle de pedido | Sin identificar | 90.00 € · PVP publicado | [ficha](https://gmartos.es/producto/modulo-mostrar-precios-mayoristas-detalle-pedido/) |
+| Ecom Measure — Vender por metros, m², m³, kilos y unidades con opciones y materiales | Sin identificar | 185.00 € · PVP publicado | [ficha](https://gmartos.es/producto/modulo-para-vender-por-metros-m%c2%b2-m%c2%b3-kilos-y-unidades-con-opciones-y-materiales/) |
+| Módulo Prestashop actualizar precio mayorista o de coste por medio de orden cron | Sin identificar | 35.00 € · PVP publicado | [ficha](https://gmartos.es/producto/modulo-prestashop-actualizar-precio-mayorista-coste/) |
+| Módulo PrestaShop AEAT NIF Verify – Verificación de NIF/CIF en tiempo real con la AEAT | Sin identificar | 125.00 € · PVP publicado | [ficha](https://gmartos.es/producto/modulo-prestashop-aeat-nif-verify-verificacion-de-nif-cif-en-tiempo-real-con-la-aeat/) |
+| Módulo Prestashop Añade Canonical y hreflang | Sin identificar | 5.00 € · PVP publicado | [ficha](https://gmartos.es/producto/modulo-prestashop-anade-canonical-hreflang/) |
+| Módulo para Prestashop añade código de seguimiento de TagManager de google | Sin identificar | 20.00 € · PVP publicado | [ficha](https://gmartos.es/producto/modulo-prestashop-anade-codigo-seguimiento-tagmanager-google/) |
+| Módulo Prestashop combinaciones en listado, cambio en productos de lista y url del botón | Sin identificar | 75.00 € · PVP publicado | [ficha](https://gmartos.es/producto/modulo-prestashop-combinaciones-listado-cambio-productos-lista-url-del-boton/) |
+| Módulo de prestashop control de venta de Productos precursores de explosivos (PPE) | Sin identificar | 120.00 € · PVP publicado | [ficha](https://gmartos.es/producto/modulo-prestashop-control-venta-productos-precursores-explosivos-ppe/) |
+| Módulo Prestashop de analítica referente y eventos sin cookies de terceros | Sin identificar | 95.00 € · PVP publicado | [ficha](https://gmartos.es/producto/modulo-prestashop-de-analitica-referente-y-eventos-sin-cookies-de-terceros/) |
+| Módulo PrestaShop Envío de productos entre Prestashop y Marketplace Fnac | Sin identificar | 175.00 € · PVP publicado | [ficha](https://gmartos.es/producto/modulo-prestashop-envio-productos-prestashop-fnac/) |
+| Módulo sencillo de aumento de precios por grupo de cliente | Sin identificar | 25.00 € · PVP publicado | [ficha](https://gmartos.es/producto/modulo-sencillo-aumento-precios-grupo-cliente/) |
+| Módulo te llamamos para Prestashop. Icono, formulario o imagen | Sin identificar | 60.00 € · PVP publicado | [ficha](https://gmartos.es/producto/modulo-te-llamamos-prestashop-icono-formulario-imagen/) |
+| Monta tu caja: packs a elegir con descuento para PrestaShop | `ecom_montatucaja` | 85.00 € · PVP publicado | [ficha](https://gmartos.es/producto/monta-tu-caja-packs-a-elegir-con-descuento-para-prestashop/) |
+| Módulo para Prestashop 1.7, desglosa impuestos en carrito y checkout. | Sin identificar | 60.00 € · PVP publicado | [ficha](https://gmartos.es/producto/mostrar-desglose-impuestos-carrito/) |
+| Mostrar listado de características con enlaces a filtro de productos | Sin identificar | 75.00 € · PVP publicado | [ficha](https://gmartos.es/producto/mostrar-listado-de-caracteristicas-con-enlaces-a-filtro-de-productos/) |
+| Mostrar en el listado de productos las miniaturas de imágenes del producto en un slider | Sin identificar | 45.00 € · PVP publicado | [ficha](https://gmartos.es/producto/mostrar-listado-productos-las-miniaturas-imagenes-del-producto/) |
+| Mostrar Precios de Combinaciones de Productos con un solo atributo | Sin identificar | 60.00 € · PVP publicado | [ficha](https://gmartos.es/producto/mostrar-precios-combinaciones-productos-solo-atributo/) |
+| Mostrar productos asociando categorías. PS 1.7 | Sin identificar | 45.00 € · PVP publicado | [ficha](https://gmartos.es/producto/mostrar-productos-asociando-categorias/) |
+| Mostrar rango de precios en listado de productos para Prestashop | Sin identificar | 60.00 € · PVP publicado | [ficha](https://gmartos.es/producto/mostrar-rango-precios-listado-productos-prestashop/) |
+| Mostrar todos los productos de la tienda en una url | Sin identificar | 50.00 € · PVP publicado | [ficha](https://gmartos.es/producto/mostrar-todos-los-productos-de-la-tienda-en-una-url/) |
+| Mostrar el campo Location del producto o combinaciones en ficha del producto | Sin identificar | 60.00 € · PVP publicado | [ficha](https://gmartos.es/producto/muestra-campo-location-del-producto-combinaciones/) |
+| Muestra el histórico de pedidos del mismo cliente en ficha de pedido | Sin identificar | 40.00 € · PVP publicado | [ficha](https://gmartos.es/producto/muestra-el-historico-de-pedidos-del-mismo-cliente-en-ficha-de-pedido/) |
+| Muestra los usuarios que están esperando stock de un producto | Sin identificar | 60.00 € · PVP publicado | [ficha](https://gmartos.es/producto/muestra-los-usuarios-estan-esperando-stock-producto/) |
+| Ocultar texto transporte gratis cuando todos los productos del carrito son virtuales | Sin identificar | 0.00 € · PVP publicado | [ficha](https://gmartos.es/producto/ocultar-texto-transporte-gratis-cuando-todos-los-productos-del-carrito-virtuales/) |
+| Ocultar transportes en el front | Sin identificar | 55.00 € · PVP publicado | [ficha](https://gmartos.es/producto/ocultar-transportes-en-el-front/) |
+| Omnibus Price History para PrestaShop— Precio más bajo de 30 días (Directiva UE 2019/2161) | Sin identificar | 75.00 € · PVP publicado | [ficha](https://gmartos.es/producto/omnibus-price-history-para-prestashop-precio-mas-bajo-de-30-dias-directiva-ue-2019-2161/) |
+| Optimización de carga de página y web en PrestaShop | Sin identificar | 120.00 € · PVP publicado | [ficha](https://gmartos.es/producto/optimizacion-carga-pagina-web-prestashop/) |
+| Optimizar servidor VPS o Dedicado | Sin identificar | 100.00 € · PVP publicado | [ficha](https://gmartos.es/producto/optimizar-servidor-vps-o-dedicado/) |
+| Passkey & TOTP Pro: Acceso y login por Biométrica y 2FA Avanzado para PrestaShop | Sin identificar | 95.00 € · PVP publicado | [ficha](https://gmartos.es/producto/passkey-totp-pro-acceso-y-login-por-biometrica-y-2fa-avanzado-para-prestashop/) |
+| Perfiles de personas relacionadas con productos (autores, diseñadores, enólogos, etc.) | Sin identificar | 175.00 € · PVP publicado | [ficha](https://gmartos.es/producto/perfiles-de-personas-relacionadas-con-productos-autores-disenadores-enologos-etc/) |
+| Permite modificar la fecha de creación para que se muestre o no en el listado de novedades | Sin identificar | 25.00 € · PVP publicado | [ficha](https://gmartos.es/producto/permite-modificar-la-fecha-de-anadido-para-que-se-muestre-o-no-en-el-listado-de-novedades/) |
+| Precio del producto utilizando peso del producto | Sin identificar | 95.00 € · PVP publicado | [ficha](https://gmartos.es/producto/precio-del-producto-utilizando-peso-del-producto-anadiendo-formato-peso-del-producto/) |
+| Preparación de Feed de Merchant center para checkout_link_template | Sin identificar | 50.00 € · PVP publicado | [ficha](https://gmartos.es/producto/preparacion-feed-merchant-center-checkout_link_template/) |
+| PrestaShop Security Audit | Sin identificar | 10.00 € · PVP publicado | [ficha](https://gmartos.es/producto/prestashop-security-audit/) |
+| Prevención del blanqueo de capitales – Limitar el total del carrito | Sin identificar | 150.00 € · PVP publicado | [ficha](https://gmartos.es/producto/prevencion-del-blanqueo-capitales-limitar-total-del-carrito-compras-acumulado/) |
+| Product Rescue: recupera productos agotados y errores 404 en PrestaShop | Sin identificar | 35.00 € · PVP publicado | [ficha](https://gmartos.es/producto/product-rescue-recupera-productos-agotados-y-errores-404-en-prestashop/) |
+| Protección Avanzada Anti-Spam con Google reCAPTCHA Enterprise | Sin identificar | 30.00 € · PVP publicado | [ficha](https://gmartos.es/producto/proteccion-avanzada-anti-spam-con-google-recaptcha-enterprise-prestashop-module/) |
+| QR Confirmación de Entrega para PrestaShop | Sin identificar | 60.00 € · PVP publicado | [ficha](https://gmartos.es/producto/qr-confirmacion-de-entrega/) |
+| Recomendados por IA para PrestaShop — Motor de recomendación inteligente con AI | Sin identificar | 85.00 € · PVP publicado | [ficha](https://gmartos.es/producto/recomendados-por-ia-para-prestashop-motor-de-recomendacion-inteligente-con-ai/) |
+| Recordatorio de Carritos del cliente abandonados | Sin identificar | 125.00 € · PVP publicado | [ficha](https://gmartos.es/producto/recordatorio-de-carritos-del-cliente-abandonados/) |
+| Reenviar email confirmación pedido | Sin identificar | 10.00 € · PVP publicado | [ficha](https://gmartos.es/producto/reenviar-email-confirmacion-pedido/) |
+| Registro de pedidos si el cliente tiene un bloqueo de publicidad | Sin identificar | 35.00 € · PVP publicado | [ficha](https://gmartos.es/producto/registro-pedidos-cliente-bloqueo-publicidad/) |
+| Secure PDF Vault – Documentos cifrados para clientes y pedidos | Sin identificar | 125.00 € · PVP publicado | [ficha](https://gmartos.es/producto/secure-pdf-vault-documentos-cifrados-para-clientes-y-pedidos/) |
+| Sitemap de imágenes para google | Sin identificar | 45.00 € · PVP publicado | [ficha](https://gmartos.es/producto/sitemap-de-imagenes-para-google/) |
+| Sitemap de marcas. Generar un fichero sitemap de google con url de marcas | Sin identificar | 25.00 € · PVP publicado | [ficha](https://gmartos.es/producto/sitemap-marcas-generar-fichero-sitemap-google-url-marcas/) |
+| Slider de productos relacionados por el nombre | Sin identificar | 45.00 € · PVP publicado | [ficha](https://gmartos.es/producto/slider-productos-relacionados-nombre/) |
+| Sticky Cart PRO – Carrito flotante inteligente para PrestaShop | Sin identificar | 10.00 € · PVP publicado | [ficha](https://gmartos.es/producto/sticky-cart-pro-carrito-flotante-inteligente-para-prestashop/) |
+| TPV / POS para Windows con VERI*FACTU y conexión a PrestaShop y Woocommerce | Sin identificar | 245.00 € · PVP publicado | [ficha](https://gmartos.es/producto/tpv-para-windows-con-verifactu-y-conexion-a-prestashop-y-woocommerce/) |
+| Transportista solo si hay productos en Stock | Sin identificar | 45.00 € · PVP publicado | [ficha](https://gmartos.es/producto/transportista-solo-si-hay-productos-en-stock/) |
+| Unidades Extra por Fabricación Mínima para PrestaShop 8 y 9 | Sin identificar | 135.00 € · PVP publicado | [ficha](https://gmartos.es/producto/unidades-extra-por-fabricacion-minima-para-prestashop-8-y-9/) |
+| Usar / duplicar el mismo stock entre productos y asociar el stock de combinaciones con productos independientes | Sin identificar | 75.00 € · PVP publicado | [ficha](https://gmartos.es/producto/usar-stock-productos-asociar-stock-combinaciones-productos-independientes/) |
+| Utilizar plugin multidatepicker en PrestaShop | Sin identificar | 0.00 € · PVP publicado | [ficha](https://gmartos.es/producto/utilizar-plugin-multidatepicker-prestashop/) |
+| Validador de DNI/CIF y Códigos Postales con Confirmación de Seguridad | Sin identificar | 40.00 € · PVP publicado | [ficha](https://gmartos.es/producto/validador-de-dni-cif-y-codigos-postales-con-confirmacion-de-seguridad/) |
+| Venta por Formatos — Cajas, Palets y Packs (Mayorista / B2B) | Sin identificar | 85.00 € · PVP publicado | [ficha](https://gmartos.es/producto/venta-por-formatos-cajas-palets-y-packs-mayorista-b2b/) |
+
+### Rekire
+
+| Producto o servicio | Identificador acreditado | Precio de referencia | Fuente |
+|---|---|---|---|
+| Gestión de inventario híbrido físico y externo | Sin identificar | 100.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/107-modulo-gestion-de-inventario-hibrido-fisico-y-externo-simple.html) |
+| Categoría por defecto de nivel más profundo [Free] | Sin identificar | 0.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/110-modulo-categoria-por-defecto-de-nivel-mas-profundo-mejora-de-ux-y-seo-free-.html) |
+| Easy AI Magic Catalog Suite | Sin identificar | 200.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/111-modulo-easy-ai-magic-catalog-suite-todo-en-uno-de-inteligencia-artificial-y-seo.html) |
+| Suscripción anual a todos los módulos de Rekire (pase anual) | Sin identificar | 199.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/112-suscripcion-anual-todos-los-modulos-de-rekire.html) |
+| All In One Cache con Redis (@thisjrodriguez) | Sin identificar | 0.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/114-modulo-cache-total-redis-opcache-thisjrodriguez.html) |
+| Easy Product Labels | Sin identificar | 50.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/116-modulo-easyproduct-labels.html) |
+| Accesibilidad fácil | Sin identificar | 100.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/117-modulo-accesibilidad-facil.html) |
+| Easy Bought Together Flash | `easyboughttogetherflash` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/118-easy-bought-together-flash-comprados-juntos-con-descuento-en-la-ficha-de-producto.html) |
+| Visual Search No SaaS (Meilisearch) | Sin identificar | 332.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/119-modulo-buscador-profesional-sin-pagos-recurrentes.html) |
+| Derecho de Desistimiento | `rightofwithdrawal` | 90.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/120-modulo-desistimientos-cumplimiento-nueva-normativa-ue.html) |
+| Security alert por Telegram | Sin identificar | 0.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/121-modulo-security-alert-por-telegram.html) |
+| Mis descargas | Sin identificar | 60.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/122-modulo-mis-descargas.html) |
+| Nutrition Full Info (IA) | Sin identificar | 250.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/123-modulo-valores-nutricionales-con-ia.html) |
+| Traducción total | `rkrtotaltranslator` | 160.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/124-modulo-traduccion-total.html) |
+| Pagos recurrentes - suscripciones con Redsys | Sin identificar | 265.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/125-modulo-pagos-recurrentes-suscripciones-con-redsys.html) |
+| Telegram avisos total | `rkravisostelegram` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/126-modulo-telegram-avisos-total.html) |
+| Cache Buster | Sin identificar | 15.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/127-modulo-limpiar-cache-del-navegador-de-los-usuarios.html) |
+| Editor de facturas rectificativas | Sin identificar | 50.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/128-modulo-editor-de-facturas-rectificativas.html) |
+| Editor TPL JS y CSS | Sin identificar | 50.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/130-modulo-editor-tpl-js-y-css.html) |
+| Atributos con imágenes generales o específicas | Sin identificar | 50.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/131-modulo-atributos-con-imagenes-generales-o-especificos.html) |
+| Botón contacta con un experto | Sin identificar | 40.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/134-modulo-boton-contacta-con-un-experto.html) |
+| Impedir uso de cupones caducados | Sin identificar | 30.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/136-modulo-impedir-uso-de-cupones-caducados.html) |
+| Localizador de traducciones y traductor gratis | Sin identificar | 40.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/137-modulo-localizador-de-traducciones-y-traductor-gratis-con-extension-de-google.html) |
+| RKR Barra Flotante Añadir al Carrito | `rkr_stickycart` | 39.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/138-rkr-barra-flotante-anadir-al-carrito.html) |
+| RKR Purchase Manager | Sin identificar | 190.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/139-rkr-purchase-manager-compras-tarifas-de-proveedor-y-coste-real.html) |
+| RKR Galería de producto | `rkrgallery` | 119.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/140-rkr-galeria-de-producto.html) |
+| Fechas de caducidad y consumo preferente | Sin identificar | 60.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/141-modulo-fechas-de-caducidad-y-consumo-preferente.html) |
+| Importación de imágenes CSV desde carpeta local | Sin identificar | 60.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/142-modulo-importacion-de-imagenes-csv-desde-carpeta-local.html) |
+| Múltiples EAN por producto | Sin identificar | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/144-multiples-ean-por-producto.html) |
+| Redirecciones | Sin identificar | 25.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/145-modulo-de-redirecciones.html) |
+| FAQs y preguntas y respuestas | Sin identificar | 30.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/146-modulo-de-faqs.html) |
+| Picking y colocación profesional | Sin identificar | 199.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/147-modulo-picking-y-colocacion-profesional.html) |
+| Complemento asistente PrestaChat | Sin identificar | 60.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/149-modulo-complemento-asistente-prestachat.html) |
+| Pagos por Stripe en la suscripción | Sin identificar | 100.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/150-modulo-pagos-por-stripe-en-la-suscripcion.html) |
+| Conector con app AI catalog flow | Sin identificar | 500.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/151-modulo-conector-con-app-ai-catalog-flow.html) |
+| Componentes extra para tu contenido | Sin identificar | 100.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/152-modulo-componentes-extra-para-tu-contenido.html) |
+| Bloques HTML o JavaScript en cualquier sitio | Sin identificar | 40.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/153-modulo-bloques-html-o-javascript-en-cualquier-sitio-de-la-tienda.html) |
+| Acceso maestro como usuario (RGPD) | Sin identificar | 30.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/154-modulos-acceso-maestro-como-usuario-con-cumplimiento-rgpd.html) |
+| Más que un social login | Sin identificar | 79.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/155-modulo-mas-que-un-social-login.html) |
+| Slider Pro | Sin identificar | 50.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/156-modulo-slider-pro.html) |
+| SEPA suscripciones | Sin identificar | 90.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/157-modulo-sepa-suscripciones.html) |
+| Remote TPV Lite | Sin identificar | 100.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/158-modulo-remote-tpv-lite.html) |
+| RKR Mensajería (push, PWA) | `rkrmensajeria` | 60.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/159-modulo-notificaciones-push.html) |
+| PrestaChat (IA en el back-office) | Sin identificar | 170.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/161-prestachat.html) |
+| Emails recordatorios y avisos | Sin identificar | 70.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/163-modulo-emails-recordatorios-y-avisos.html) |
+| RKR Returns (devoluciones) | Sin identificar | 60.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/164-rkrreturns.html) |
+| RKR Sentinel (avisos Telegram de errores) | Sin identificar | 250.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/165-rkrsentinel.html) |
+| RKR Order Guard | Sin identificar | 106.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/166-rkrorderguard.html) |
+| RKR Mix Match Box | Sin identificar | 90.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/167-rkrmixmatchbox.html) |
+| Easy SEO Internal Links | Sin identificar | 60.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/168-easyseointernallinks.html) |
+| RKR Carbon Footprint | Sin identificar | 90.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/169-rkrcarbonfootprint.html) |
+| RKR Event Suite (cursos, talleres, entradas) | Sin identificar | 150.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/170-rkreventsuite.html) |
+| RKR Mail Editor (correos transaccionales) | `rkr_maileditor` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/171-rkrmaileditor.html) |
+| Easy blog | Sin identificar | 100.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/172-easyblog.html) |
+| Módulo ofertas tras realizar un pedido | Sin identificar | 100.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/174-modulo-ofertas-tras-realizar-un-pedido.html) |
+| Connectif limitador conexiones | Sin identificar | 200.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/175-connectif-limitador-conexiones.html) |
+| RKR API Conversions Pro | Sin identificar | 190.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/176-rkr-api-conversions-pro-conversiones-desde-el-servidor-para-meta-ga4-google-ads-y-mas.html) |
+| RKR Influencer Promo | Sin identificar | 106.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/177-rkr-influencer-promo-codigos-y-enlaces-de-influencer-para-prestashop.html) |
+| Añadir combinaciones desde el listado | Sin identificar | 50.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/178-anadir-combinaciones-desde-el-listado-elige-talla-y-color-sin-abrir-la-ficha.html) |
+| RKR Carrito Único | `rkrcartsync` | 66.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/180-rkr-carrito-unico-el-mismo-carrito-en-todos-los-dispositivos.html) |
+| RKR Despieces Interactivos de Recambios | `rkrspareparts` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/181-rkr-despieces-interactivos-de-recambios.html) |
+| RKR Reserva de stock en el carrito | Sin identificar | 60.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/182-rkr-reserva-de-stock-en-el-carrito-cuenta-atras-para-prestashop.html) |
+| RKR Product Rescue | `rkrproductrescue` | 59.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/183-rkr-product-rescue-productos-agotados-desactivados-y-404-con-alternativas.html) |
+| RKR Exit Poll | `rkrexitpoll` | 69.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/184-rkr-exit-poll-encuesta-de-abandono-en-el-checkout-con-cupones-y-estadisticas.html) |
+| RKR Unlimited Tabs | `rkrunlimitedtabs` | 69.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/185-rkr-unlimited-tabs-pestanas-reutilizables-en-la-ficha-de-producto-para-prestashop.html) |
+| RKR Legal Assistant | `rkrlegalassistant` | 129.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/186-rkr-legal-assistant-textos-legales-consentimientos-y-avisos-para-prestashop.html) |
+| RKR Group Buying | `rkrgroupbuying` | 129.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/187-rkr-group-buying-compra-colectiva-con-precio-por-tramos-para-prestashop.html) |
+| RKR Consign | `rkrconsign` | 149.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/188-rkr-consign-venta-en-deposito-con-liquidacion-a-consignantes-para-prestashop.html) |
+| RKR Datos de Facturación | `rkrbillingaddress` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/189-rkr-datos-de-facturacion-solicitar-factura-validacion-del-nif-y-factura-simplificada-para-prestashop.html) |
+| RKR Buy More Pro | `rkrbuymorepro` | 119.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/190-rkr-buy-more-pro-order-bump-en-el-checkout-con-test-a-b-y-estadisticas-para-prestashop.html) |
+| RKR Magic Carts | `rkrmagiccarts` | 119.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/191-rkr-magic-carts-carritos-y-presupuestos-con-enlace-permalink-o-qr-para-prestashop.html) |
+| RKR Order Archive | `rkrorderarchive` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/192-rkr-order-archive-archivo-de-pedidos-antiguos-para-prestashop.html) |
+| RKR Video Call | `rkrvideollamada` | 129.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/193-rkr-video-call-videollamadas-de-venta-con-carrito-compartido-para-prestashop.html) |
+| RKR Shipping Protection | `rkrshippingprotection` | 119.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/194-rkr-shipping-protection-proteccion-de-envio-opcional-y-portal-de-reclamaciones-para-prestashop.html) |
+| RKR Telegram Store (Mini App) | `rkrshopintotelegram` | 172.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/216-rkr-telegram-store-mini-app-vende-desde-un-bot-de-telegram.html) |
+| RKR Dynamic Image (Open Graph) | `rkrdinamicimage` | 106.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/217-rkr-dynamic-image-imagenes-open-graph-dinamicas-para-prestashop.html) |
+| RKR Área Pricing Pro | `rkrareapricingpro` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/218-rkr-area-pricing-pro-venta-por-m-con-cajas-y-piezas-completas-para-prestashop.html) |
+| RKR Linear Pricing Pro | `rkrlinearpricingpro` | 79.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/219-rkr-linear-pricing-pro-venta-por-metros-con-bobinas-tramos-y-cortes-para-prestashop.html) |
+| RKR Volume Pricing Pro | `rkrvolumepricingpro` | 79.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/220-rkr-volume-pricing-pro-venta-por-volumen-m-y-litros-con-unidades-completas-y-stock-para-prestashop.html) |
+| RKR Weight Pricing Pro | `rkrweightpricingpro` | 79.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/221-rkr-weight-pricing-pro-venta-por-peso-para-prestashop.html) |
+| RKR Product Dependencies | `rkrproductdependencies` | 79.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/222-rkr-product-dependencies-venta-con-requisitos-y-anadir-lo-que-falta-para-prestashop.html) |
+| RKR REBU (IVA del margen) | `rkrvatusedgoods` | 179.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/223-rkr-rebu-iva-del-margen-para-bienes-usados.html) |
+| RKR Invite & Win | `rkrinviteandwin` | 132.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/224-rkr-invite-win-programa-de-referidos-con-monedero-virtual-y-antifraude-para-prestashop.html) |
+| RKR Refound Orders | `rkrrefoundingorders` | 119.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/225-rkr-refound-orders-reembolsos-en-la-pasarela-con-factura-rectificativa.html) |
+| RKR Recargo de Equivalencia | `rkrrecargoequiva` | 129.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/227-rkr-recargo-de-equivalencia-recargo-de-equivalencia-como-impuesto-real-en-prestashop.html) |
+| RKR Free Return | `rkrfreereturn` | 119.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/228-rkr-free-return-devolucion-gratuita-de-pago-en-el-checkout-para-prestashop.html) |
+| RKR Vape & Nicotine Excise Tax (Modelo 573) | `rkrvatvape` | 129.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/229-rkr-vape-nicotine-excise-tax-impuesto-especial-y-modelo-573-para-prestashop.html) |
+| RKR Google & Trustpilot Reviews | `rkrgooglereviews` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/230-rkr-google-trustpilot-reviews-resenas-en-tu-tienda-prestashop.html) |
+| RKR Smart Coupons | `rkrsmartcoupons` | 132.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/231-rkr-smart-coupons-bonos-de-sesiones-y-creditos-prepagados-para-prestashop.html) |
+| RKR Programatic SEO | `rkrprogramaticseo` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/232-rkr-programatic-seo-landings-seo-por-lotes-para-prestashop.html) |
+| RKR Custom Content Types | `rkrcustomcontent` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/244-rkr-custom-content-types-recetas-eventos-proyectos-y-mas-en-tu-tienda-prestashop.html) |
+| RKR Ofertas en emails transaccionales | `rkrofferstransmail` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/245-rkr-ofertas-en-emails-transaccionales-vende-en-los-correos-de-pedido-de-prestashop.html) |
+| RKR OptiMatters | `rkroptimmatters` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/246-rkr-optimatters-optimizador-de-css-js-y-google-fonts-para-prestashop.html) |
+| RKR LinkStock | `rkrlinkstock` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/247-rkr-linkstock-stock-compartido-entre-productos-combinaciones-y-packs-en-prestashop.html) |
+| RKR Sync Vinted Pro | `rkrsyncvinted` | 149.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/248-rkr-sync-vinted-pro-vende-en-vinted-y-en-tu-tienda-prestashop-sin-duplicar-ventas.html) |
+| RKR Offer Next Buy | `rkroffernextbuy` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/249-rkr-offer-next-buy-cupon-para-la-siguiente-compra.html) |
+| RKR Plastic Packaging Tax (Modelo 592) | `rkrvatplastic` | 149.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/250-rkr-plastic-packaging-tax-impuesto-del-plastico-y-modelo-592-para-prestashop.html) |
+| RKR Contribution | `rkrcontribution` | 129.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/251-rkr-contribution-propinas-y-donaciones-para-prestashop.html) |
+| RKR Thanks by Buy | `rkrthanksbybuy` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/252-rkr-thanks-by-buy-ofertas-de-socios-en-la-confirmacion-de-pedido.html) |
+| RKR Crowdfunding y preventas | `rkrcrowdfunding` | 149.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/253-rkr-crowdfunding-y-preventas-campanas-de-crowdfunding-y-preventas-en-tu-propia-tienda-prestashop.html) |
+| RKR Compra en 1 clic | `rkroneclickinstantbuy` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/254-rkr-compra-en-1-clic-compra-en-un-clic-con-la-direccion-despues-del-pago-en-prestashop.html) |
+| RKR Authors & Reviewers (E-E-A-T) | `rkrauthorship` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/255-rkr-authors-reviewers-autores-y-revisores-expertos-e-e-a-t-para-prestashop.html) |
+| RKR Deadline Offers | `rkrdeadlineoffers` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/256-rkr-deadline-offers-ofertas-con-cuenta-atras-real-para-tu-tienda-prestashop.html) |
+| RKR Order Prep Calendar | `rkrorderprepcalendar` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/257-rkr-order-prep-calendar-recordatorios-de-regalo-con-cupon.html) |
+| RKR Selector de ciudad y teléfono internacional | `rkrselectcity` | 79.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/258-rkr-selector-de-ciudad-y-telefono-internacional-direcciones-limpias-y-telefonos-validos-en-prestashop.html) |
+| RKR Cookies (RGPD Consent Mode v2) | `rkrcookies` | 119.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/269-rkr-cookies-banner-rgpd-con-consent-mode-v2-bloqueo-real-y-registro-de-consentimientos-para-prestashop.html) |
+| Botón Comprar con cantidad en la cesta | `rkrcartqty` | 59.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/274-boton-comprar-con-cantidad-en-la-cesta-ve-y-cambia-lo-que-lleva-desde-el-listado.html) |
+| RKR Live Showcase | `rkrliveshowcase` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/275-rkr-live-showcase-tu-tienda-en-una-foto-con-cada-producto-comprable.html) |
+| RKR Textile Labels | `rkrtextillabels` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/277-rkr-textile-labels-etiquetas-textiles-composicion-y-simbolos-de-cuidado-para-prestashop.html) |
+| RKR Delivery Channel Sync (Glovo, Uber Eats, Just Eat) | `rkrsyncglobouberjust` | 149.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/278-rkr-delivery-channel-sync-glovo-uber-eats-just-eat-vende-en-apps-de-reparto-desde-prestashop.html) |
+| Protección de bajada de precio | `rkrdiscountpricedrop` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/279-proteccion-de-bajada-de-precio-vale-automatico-por-la-diferencia.html) |
+| RKR Influencer Landing | `rkrinfluencerslanding` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/280-rkr-influencer-landing-una-pagina-propia-que-vende-para-cada-creador.html) |
+| RKR Recambios (Ovoko) | `rkrrecambios` | 149.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/281-rkr-recambios-vende-tu-recambio-usado-en-ovoko-desde-prestashop-sin-vender-dos-veces.html) |
+| RKR Private Sales & Flash Sales | `rkrprivatesales` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/282-rkr-private-sales-flash-sales-ventas-privadas-y-flash-por-invitacion.html) |
+| RKR Cashback Promo | `rkrcashbackpromo` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/283-rkr-cashback-promo-cashback-tras-el-plazo-de-devolucion.html) |
+| RKR IndexNow Best | `rkrindexnowbest` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/284-rkr-indexnow-best-avisa-a-los-buscadores-de-cada-cambio-y-mide-tus-productos-con-search-console.html) |
+| RKR Payment Fee | `rkrpaymentfee` | 59.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/285-rkr-payment-fee-recargo-por-pedido-y-descuento-para-las-formas-de-pago-que-prefieres.html) |
+| Envíos de mercancías peligrosas (ADR) | `rkrdangerousshipments` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/286-envios-de-mercancias-peligrosas-adr-baterias-de-litio-aerosoles-e-inflamables.html) |
+| RKR Gifts List & Events | `rkrgiftslistevents` | 119.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/287-rkr-gifts-list-events-listas-de-regalos-de-boda-nacimiento-y-comunion-para-prestashop.html) |
+| RKR Envíos a Canarias, Ceuta y Melilla | `rkrspecialshipping` | 129.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/288-rkr-envios-a-canarias-ceuta-y-melilla.html) |
+| Escandallos y órdenes de fabricación | `rkrmanufacturing` | 149.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/289-escandallos-y-ordenes-de-fabricacion-coste-real-y-stock-automatico.html) |
+| RKR GPSR & Digital Product Passport | `rkrgpsrcompilance` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/290-rkr-gpsr-digital-product-passport-fabricante-responsable-en-la-ue-y-pasaporte-digital-con-qr-para-prestashop.html) |
+| RKR Promos Into Lists | `rkrpromosintolists` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/291-rkr-promos-into-lists-ofertas-dentro-de-los-listados-de-productos.html) |
+| RKR Product Feed para Google, Meta y TikTok | `rkrproductfeed` | 79.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/292-rkr-product-feed-para-google-meta-y-tiktok-un-articulo-por-combinacion-con-su-precio-y-su-stock.html) |
+| RKR Ajuste de redondeo de IVA | `rkrtaxround` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/293-rkr-ajuste-de-redondeo-de-iva.html) |
+| RKR Print & Laser Price Calculator | `rkrprintprice` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/294-rkr-print-laser-price-calculator-presupuestos-instantaneos-de-impresion-3d-y-corte-laser.html) |
+| RKR Purchase Limits | `rkrpurchaselimits` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/295-rkr-purchase-limits-limites-de-compra-por-cliente-contra-revendedores-y-acaparadores.html) |
+| RKR INCI Cosmetics | `rkrincicosmetics` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/296-rkr-inci-cosmetics-lista-inci-alergenos-de-fragancia-ue-2023-1545-y-gpsr-para-prestashop.html) |
+| RKR Verify Authenticity | `rkrverifyauthenticity` | 119.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/297-rkr-verify-authenticity-certificados-de-autenticidad-con-qr-y-nfc-para-prestashop.html) |
+| RKR Outlet | `rkroutlet` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/298-rkr-outlet-devoluciones-y-cajas-abiertas.html) |
+| RKR Diagnoses | `rkrdiagnoses` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/301-rkr-diagnoses-diagnostico-y-profiler-de-rendimiento-para-prestashop.html) |
+| RKR Alert News | `rkralertnews` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/302-rkr-alert-news-avisa-a-tus-clientes-cuando-publicas-un-producto-que-buscaban.html) |
+| RKR Cart Rewards | `rkrcartrewards` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/303-rkr-cart-rewards-barra-de-recompensas-en-el-carrito-con-envio-gratis-y-regalos.html) |
+| RKR Glossary Tooltip | `rkrglossarytooltip` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/304-rkr-glossary-tooltip-glosario-con-definiciones-emergentes-y-pagina-a-z-para-prestashop.html) |
+| RKR Team Notes | `rkrteamnotes` | 79.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/306-rkr-team-notes-notas-internas-menciones-y-responsables-en-pedidos.html) |
+| RKR Control de Productos | `rkrmixproductscontrol` | 129.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/307-rkr-control-de-productos-stock-muerto-y-cortafuegos-de-precios.html) |
+| RKR Customers Pets | `rkrcustomerspets` | 129.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/308-rkr-customers-pets-fichas-de-mascotas-recomendaciones-y-citas.html) |
+| RKR Auto Post Social | `rkrautopostsocial` | 129.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/309-rkr-auto-post-social-publica-tus-productos-en-redes.html) |
+| RKR Split Friends Payment | `rkrsplitfriendspayment` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/310-rkr-split-friends-payment-pago-dividido-entre-amigos-cada-uno-paga-su-parte.html) |
+| RKR EUDR Guard | `rkreudrguard` | 129.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/311-rkr-eudr-guard-reglamento-antideforestacion-ue-2023-1115-dds-y-trazabilidad-para-prestashop.html) |
+| RKR Delivery Date Pro | `rkrdeliverydatapro` | 89.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/312-rkr-delivery-date-pro-el-cliente-elige-fecha-y-franja-de-entrega-en-el-checkout.html) |
+| RKR Carrusel de marcas por categoría | `rkrbrandcarousel` | 69.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/313-rkr-carrusel-de-marcas-por-categoria-tu-cliente-llega-a-su-marca-de-un-toque.html) |
+| RKR GS1 Digital Link QR | `rkrlinkdigitalqrgs1` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/314-rkr-gs1-digital-link-qr-codigos-qr-gs1-de-tu-catalogo-con-resolver-propio.html) |
+| Avisos de pedidos en Telegram bot | Sin identificar | 9.99 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/55-avisos-de-pedidos-en-telegram.html) |
+| Registro ampliado (campos de dirección) | Sin identificar | 66.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/6-modulo-de-registro-ampliado.html) |
+| Productos simples como combinaciones + canonical | Sin identificar | 66.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/64-productos-relacionados-agrupados.html) |
+| Seller Plus por categorías, marcas e intervalos | Sin identificar | 66.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/65-mas-vendidos-prestashop.html) |
+| Cálculo de necesidades de stock | Sin identificar | 69.99 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/67-previsiones-stock-prestashop.html) |
+| Simple Order (picking y check de pedidos) | Sin identificar | 99.99 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/69-modulo-simple-order-check-de-pedidos-sin-errores.html) |
+| Omnibus. Precio mínimo | Sin identificar | 66.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/71-modulo-omnibus-prestashop.html) |
+| Histórico de cambios de productos en backoffice | Sin identificar | 66.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/72-historico-de-cambios-de-productos.html) |
+| Series de facturas para PrestaShop | Sin identificar | 250.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/75-modulo-series-de-facturas-para-prestashop.html) |
+| Rekire Product Kit | `rkrproductkit` | 150.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/90-modulo-kits.html) |
+| Easy Product Videos | `easyproductvideos` | 99.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/92-modulo-video.html) |
+| Campos extra en productos o combinaciones | Sin identificar | 100.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/93-campos-extra-en-las-combinaciones.html) |
+| Adjuntar facturas y documentación vía webservices | Sin identificar | 130.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/94-modulo-erp-subida-documentos-api-curl.html) |
+| Menú Hamburguesa Pro | Sin identificar | 79.90 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/95-modulo-menu-hamburguesa-pro.html) |
+| SEO Link Groups | Sin identificar | 120.00 € · sin IVA | [ficha](https://rekire.com/modulos-de-prestashop/96-modulo-seo-enlaces-categorias.html) |
+

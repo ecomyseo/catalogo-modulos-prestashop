@@ -1,26 +1,26 @@
 ﻿modulo;comercial;desarrollador;clase;en_tiendas;prestashop;coste;enlace
-onepagecheckoutps;One Page Checkout (PresTeamSho;PresTeamShop;Tercero;17;8.1, 8.2;129 €;https://www.onepagecheckoutps.com/
-ph_simpleblog;Blog for PrestaShop (PrestaHom;PrestaHome;Tercero;12;8.1, 8.2;45 €;https://prestahome.com/
+onepagecheckoutps;One Page Checkout (PresTeamShop);PresTeamShop;Tercero;17;8.1, 8.2;129 €;https://www.onepagecheckoutps.com/
+ph_simpleblog;Blog for PrestaShop (PrestaHome);PrestaHome;Tercero;12;8.1, 8.2;45 €;https://prestahome.com/
 migrationpro;;prestahero.com;Tercero;11;8.1, 8.2;139.99 €;https://prestahero.com/190-migrate-upgrade
 redsys;REDSYS card payment (idnovate);idnovate;Tercero;10;8.2;55.99 €;https://www.idnovate.com/en/1372-redsys-card-payment-bizum-clicktopay-refunds.html
 whatsappchat;WhatsApp Live Chat (idnovate);idnovate;Tercero;10;8.2;55.99 €;https://www.idnovate.com/en/1406-whatsapp-live-chat-with-customers-whatsapp-business.html
 doofinder;;doofinder.com;Tercero;9;8.1, 8.2;Suscripción (pago periódico);https://www.doofinder.com/en/solutions/prestashop
-creativeelements;;creativeelements.webshopwo;Tercero;8;8.2;90 €;https://creativeelements.webshopworks.com/pricing
+creativeelements;;creativeelements.webshopworks.com;Tercero;8;8.2;90 €;https://creativeelements.webshopworks.com/pricing
 lgseoredirect;;cpe.gcve.eu;Tercero;8;8.1, 8.2;59.99 €;https://cpe.gcve.eu/cpes/1173227
 uecookie;;mypresta.eu;Tercero;8;;40 €;https://mypresta.eu/modules/front-office-features/european-union-cookie-law-pro.html
-gmerchantcenter;Google Merchant Center (Busine;Business Tech;Tercero;7;8.2;129.99 €;https://www.businesstech.fr/en/google-and-advertising-modules-for-prestashop/11-google-merchant-center-module-for-prestashop-0656272551230.html
-pdgooglemerchantcenterpro;Google Shopping Pro (PrestaDev;PrestaDev.pl;Tercero;7;8.1, 8.2;21 €;https://prestadev.pl/pl/google-shopping-pro-google-zakupy-dla-prestashop.html
+gmerchantcenter;Google Merchant Center (Business Tech);Business Tech;Tercero;7;8.2;129.99 €;https://www.businesstech.fr/en/google-and-advertising-modules-for-prestashop/11-google-merchant-center-module-for-prestashop-0656272551230.html
+pdgooglemerchantcenterpro;Google Shopping Pro (PrestaDev.pl);PrestaDev.pl;Tercero;7;8.1, 8.2;21 €;https://prestadev.pl/pl/google-shopping-pro-google-zakupy-dla-prestashop.html
 cedconnector;;cedcommerce.com;Tercero;6;8.2;Suscripción (pago periódico);https://cedcommerce.com
 lgcookieslaw;;lineagrafica.es;Tercero;6;8.2;59.99 €;https://www.lineagrafica.es/en/products/prestashop-module-cookie-law-notice-blocker
 amazon;;common-services.com;Tercero;5;8.2;Suscripción (pago periódico);https://common-services.com/prestashop-amazon-migrate-app-2026/
 connectif;Connectif (marketing);Connectif;Tercero;5;8.2;Módulo gratis, servicio de pago;
 netreviews;;help-center.prestashop.com;Tercero;5;;Suscripción (pago periódico);https://help-center.prestashop.com/hc/en-us/articles/20797136369170
 lgsitemaps;;lineagrafica.es;Tercero;4;;84.99 €;https://www.lineagrafica.es/en/products/prestashop-module-multilingual-sitemap-generator
-paypalwithfee;;lineagrafica.es;Tercero;4;8.2;59.99 €;https://www.lineagrafica.es/?p=49362
+paypalwithfee;paypalwithfee;4webs.es;Tercero;4;8.2;59.99 €;https://www.lineagrafica.es/?p=49362
 channable;;channable.com;Tercero;3;;Suscripción (pago periódico);https://www.channable.com/platform/prestashop
 lgcanonicalurls;;;Tercero;3;8.2;48.99 €;
 lgimagesregenerator;;lineagrafica.es;Tercero;3;;59.99 €;https://www.lineagrafica.es/en/products/prestashop-module-regenerate-thumbnails
-pdfacebookdynamicadsfeedpro;Facebook Dynamic Ads feed Pro ;PrestaDev.pl;Tercero;3;8.2;20 €;https://prestadev.pl/en/xml-product-export-for-facebook-dynamic-ads-for-prestashop.html
+pdfacebookdynamicadsfeedpro;Facebook Dynamic Ads feed Pro (PrestaDev.pl);PrestaDev.pl;Tercero;3;8.2;20 €;https://prestadev.pl/en/xml-product-export-for-facebook-dynamic-ads-for-prestashop.html
 sdevmanomano;;;Tercero;3;8.2;Suscripción (pago periódico);
 smartargetwhatsapp;;eesel.ai;Tercero;3;;Suscripción (pago periódico);https://www.eesel.ai/blog/smartarget-whatsapp-review
 usercentrics;;prestashop.com;Tercero;3;;Suscripción (pago periódico);https://www.prestashop.com/en/blog/consent-management-online-shop
@@ -48,9 +48,9 @@ channelpilot;;channelpilot.com;Tercero;1;;Suscripción (pago periódico);https:/
 clientify;;;Tercero;1;;Suscripción (pago periódico);
 conditionalcartrules;conditionalcartrules;idnovate;Tercero;1;;69.99 €;https://www.idnovate.com/en/1404-conditional-cart-rules-without-offers-on-sale.html
 connectif_copia.php;;;Tercero;1;8.2;Módulo gratis, servicio de pago;
-creativeelements_2914;;pagebuilder.webshopworks.c;Tercero;1;;84 €;https://pagebuilder.webshopworks.com/pricing
-creativeelements_ant;;creativeelements.webshopwo;Tercero;1;;90 €;https://creativeelements.webshopworks.com/pricing
-creativeelementsnabi copy;;creativeelements.webshopwo;Tercero;1;;83 €;https://creativeelements.webshopworks.com/pricing
+creativeelements_2914;;pagebuilder.webshopworks.com;Tercero;1;;84 €;https://pagebuilder.webshopworks.com/pricing
+creativeelements_ant;;creativeelements.webshopworks.com;Tercero;1;;90 €;https://creativeelements.webshopworks.com/pricing
+creativeelementsnabi copy;;creativeelements.webshopworks.com;Tercero;1;;83 €;https://creativeelements.webshopworks.com/pricing
 criteoonetag;;mypresta.rocks;Tercero;1;8.2;62.1 €;https://mypresta.rocks/criteo-onetag-integration
 easyprestatranslator;;;Tercero;1;;Suscripción (pago periódico);
 formmaker;;;Tercero;1;;49 €;
@@ -59,7 +59,7 @@ glotio;;glotio.com;Tercero;1;;Suscripción (pago periódico);https://www.glotio.
 growaffiliate;;;Tercero;1;;Módulo gratis, servicio de pago;
 htmlboxpro;;mypresta.eu;Tercero;1;;40 €;https://mypresta.eu/modules/front-office-features/html-box-pro.html
 illow;;illow.io;Tercero;1;;Suscripción (pago periódico);https://illow.io/
-infinitescroll;;silbersaiten.de;Tercero;1;;49.99 €;https://www.silbersaiten.de/en/prestashop-modules/352-infinite-scroll.html
+infinitescroll;infinitescroll;Studio Kiwik;Tercero;1;;49.99 €;https://www.silbersaiten.de/en/prestashop-modules/352-infinite-scroll.html
 kbprivateshop;;knowband.com;Tercero;1;;39.99 €;https://knowband.com/prestashop-private-shop
 lengow;;;Tercero;1;;Suscripción (pago periódico);
 lengow2;;;Tercero;1;;Suscripción (pago periódico);
@@ -76,7 +76,9 @@ pm_advancedsearch4--org;;getastra.com;Tercero;1;8.2;250 €;https://www.getastra
 prestabay;;involic.freshdesk.com;Tercero;1;8.2;185 €;https://involic.freshdesk.com/support/solutions/articles/5000717830
 productlabelsandstickers_old;;store.webkul.com;Tercero;1;8.2;49 €;https://store.webkul.com/Prestashop-Product-label.html
 pts_abandonedcartopc;;presteamshop.com;Tercero;1;;35 €;https://presteamshop.com/en/prestashop-modules/abandoned-cart-opc.html
-rc_pganalytics;Premium Google Analytics 4 (Re;ReactionCode;Tercero;1;;139.99 €;https://addons.prestashop.com/en/analytics/18623-premium-google-analytics-4-ga4-server-side-.html
+rc_pganalytics;Premium Google Analytics 4 (ReactionCode);ReactionCode;Tercero;1;;139.99 €;https://addons.prestashop.com/en/analytics/18623-premium-google-analytics-4-ga4-server-side-.html
+rightofwithdrawal;Derecho de Desistimiento;Rekire;Tercero;1;8.2;90 €;https://rekire.com/modulos-de-prestashop/120-modulo-desistimientos-cumplimiento-nueva-normativa-ue.html
+rkrtaxround;RKR Ajuste de redondeo de IVA;Rekire;Tercero;1;8.2;99.9 €;https://rekire.com/modulos-de-prestashop/293-rkr-ajuste-de-redondeo-de-iva.html
 secuvad;;;Tercero;1;;Suscripción (pago periódico);
 shoppingfeed;;;Tercero;1;;Módulo gratis, servicio de pago;
 spmostviewed;;codecanyon.net;Tercero;1;;22 €;https://codecanyon.net/item/sp-most-viewed-responsive-prestashop-module/15843297
@@ -87,22 +89,114 @@ v2.10.1-creativeelements (2).zip;;sites.fastspring.com;Tercero;1;;89.99 €;http
 v2.11.1-creativeelements (2).zip;;sites.fastspring.com;Tercero;1;;90 €;https://sites.fastspring.com/globalillusion/product/creativeelements
 v9.0.2-verified reviews (1).zip;;softwarefinder.com;Tercero;1;;Suscripción (pago periódico);https://softwarefinder.com/customer-service-software/verified-reviews
 yotpo;;discover.commoninja.com;Tercero;1;;Módulo gratis, servicio de pago;https://discover.commoninja.com/prestashop/module/31083-yotpo
+easyboughttogetherflash;Easy Bought Together Flash;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/118-easy-bought-together-flash-comprados-juntos-con-descuento-en-la-ficha-de-producto.html
+easyproductvideos;Easy Product Videos;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/92-modulo-video.html
+rkr_maileditor;RKR Mail Editor (correos transaccionales);Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/171-rkrmaileditor.html
+rkr_stickycart;RKR Barra Flotante Añadir al Carrito;Rekire;Tercero;0;;39.9 €;https://rekire.com/modulos-de-prestashop/138-rkr-barra-flotante-anadir-al-carrito.html
+rkralertnews;RKR Alert News;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/302-rkr-alert-news-avisa-a-tus-clientes-cuando-publicas-un-producto-que-buscaban.html
+rkrareapricingpro;RKR Área Pricing Pro;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/218-rkr-area-pricing-pro-venta-por-m-con-cajas-y-piezas-completas-para-prestashop.html
+rkrauthorship;RKR Authors & Reviewers (E-E-A-T);Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/255-rkr-authors-reviewers-autores-y-revisores-expertos-e-e-a-t-para-prestashop.html
+rkrautopostsocial;RKR Auto Post Social;Rekire;Tercero;0;;129.9 €;https://rekire.com/modulos-de-prestashop/309-rkr-auto-post-social-publica-tus-productos-en-redes.html
+rkravisostelegram;Telegram avisos total;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/126-modulo-telegram-avisos-total.html
+rkrbillingaddress;RKR Datos de Facturación;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/189-rkr-datos-de-facturacion-solicitar-factura-validacion-del-nif-y-factura-simplificada-para-prestashop.html
+rkrbrandcarousel;RKR Carrusel de marcas por categoría;Rekire;Tercero;0;;69.9 €;https://rekire.com/modulos-de-prestashop/313-rkr-carrusel-de-marcas-por-categoria-tu-cliente-llega-a-su-marca-de-un-toque.html
+rkrbuymorepro;RKR Buy More Pro;Rekire;Tercero;0;;119.9 €;https://rekire.com/modulos-de-prestashop/190-rkr-buy-more-pro-order-bump-en-el-checkout-con-test-a-b-y-estadisticas-para-prestashop.html
+rkrcartqty;Botón Comprar con cantidad en la cesta;Rekire;Tercero;0;;59.9 €;https://rekire.com/modulos-de-prestashop/274-boton-comprar-con-cantidad-en-la-cesta-ve-y-cambia-lo-que-lleva-desde-el-listado.html
+rkrcartrewards;RKR Cart Rewards;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/303-rkr-cart-rewards-barra-de-recompensas-en-el-carrito-con-envio-gratis-y-regalos.html
+rkrcartsync;RKR Carrito Único;Rekire;Tercero;0;;66.9 €;https://rekire.com/modulos-de-prestashop/180-rkr-carrito-unico-el-mismo-carrito-en-todos-los-dispositivos.html
+rkrcashbackpromo;RKR Cashback Promo;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/283-rkr-cashback-promo-cashback-tras-el-plazo-de-devolucion.html
+rkrconsign;RKR Consign;Rekire;Tercero;0;;149.9 €;https://rekire.com/modulos-de-prestashop/188-rkr-consign-venta-en-deposito-con-liquidacion-a-consignantes-para-prestashop.html
+rkrcontribution;RKR Contribution;Rekire;Tercero;0;;129.9 €;https://rekire.com/modulos-de-prestashop/251-rkr-contribution-propinas-y-donaciones-para-prestashop.html
+rkrcookies;RKR Cookies (RGPD Consent Mode v2);Rekire;Tercero;0;;119.9 €;https://rekire.com/modulos-de-prestashop/269-rkr-cookies-banner-rgpd-con-consent-mode-v2-bloqueo-real-y-registro-de-consentimientos-para-prestashop.html
+rkrcrowdfunding;RKR Crowdfunding y preventas;Rekire;Tercero;0;;149.9 €;https://rekire.com/modulos-de-prestashop/253-rkr-crowdfunding-y-preventas-campanas-de-crowdfunding-y-preventas-en-tu-propia-tienda-prestashop.html
+rkrcustomcontent;RKR Custom Content Types;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/244-rkr-custom-content-types-recetas-eventos-proyectos-y-mas-en-tu-tienda-prestashop.html
+rkrcustomerspets;RKR Customers Pets;Rekire;Tercero;0;;129.9 €;https://rekire.com/modulos-de-prestashop/308-rkr-customers-pets-fichas-de-mascotas-recomendaciones-y-citas.html
+rkrdangerousshipments;Envíos de mercancías peligrosas (ADR);Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/286-envios-de-mercancias-peligrosas-adr-baterias-de-litio-aerosoles-e-inflamables.html
+rkrdeadlineoffers;RKR Deadline Offers;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/256-rkr-deadline-offers-ofertas-con-cuenta-atras-real-para-tu-tienda-prestashop.html
+rkrdeliverydatapro;RKR Delivery Date Pro;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/312-rkr-delivery-date-pro-el-cliente-elige-fecha-y-franja-de-entrega-en-el-checkout.html
+rkrdiagnoses;RKR Diagnoses;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/301-rkr-diagnoses-diagnostico-y-profiler-de-rendimiento-para-prestashop.html
+rkrdinamicimage;RKR Dynamic Image (Open Graph);Rekire;Tercero;0;;106.9 €;https://rekire.com/modulos-de-prestashop/217-rkr-dynamic-image-imagenes-open-graph-dinamicas-para-prestashop.html
+rkrdiscountpricedrop;Protección de bajada de precio;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/279-proteccion-de-bajada-de-precio-vale-automatico-por-la-diferencia.html
+rkreudrguard;RKR EUDR Guard;Rekire;Tercero;0;;129.9 €;https://rekire.com/modulos-de-prestashop/311-rkr-eudr-guard-reglamento-antideforestacion-ue-2023-1115-dds-y-trazabilidad-para-prestashop.html
+rkrexitpoll;RKR Exit Poll;Rekire;Tercero;0;;69.9 €;https://rekire.com/modulos-de-prestashop/184-rkr-exit-poll-encuesta-de-abandono-en-el-checkout-con-cupones-y-estadisticas.html
+rkrfreereturn;RKR Free Return;Rekire;Tercero;0;;119.9 €;https://rekire.com/modulos-de-prestashop/228-rkr-free-return-devolucion-gratuita-de-pago-en-el-checkout-para-prestashop.html
+rkrgallery;RKR Galería de producto;Rekire;Tercero;0;;119.9 €;https://rekire.com/modulos-de-prestashop/140-rkr-galeria-de-producto.html
+rkrgiftslistevents;RKR Gifts List & Events;Rekire;Tercero;0;;119.9 €;https://rekire.com/modulos-de-prestashop/287-rkr-gifts-list-events-listas-de-regalos-de-boda-nacimiento-y-comunion-para-prestashop.html
+rkrglossarytooltip;RKR Glossary Tooltip;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/304-rkr-glossary-tooltip-glosario-con-definiciones-emergentes-y-pagina-a-z-para-prestashop.html
+rkrgooglereviews;RKR Google & Trustpilot Reviews;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/230-rkr-google-trustpilot-reviews-resenas-en-tu-tienda-prestashop.html
+rkrgpsrcompilance;RKR GPSR & Digital Product Passport;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/290-rkr-gpsr-digital-product-passport-fabricante-responsable-en-la-ue-y-pasaporte-digital-con-qr-para-prestashop.html
+rkrgroupbuying;RKR Group Buying;Rekire;Tercero;0;;129.9 €;https://rekire.com/modulos-de-prestashop/187-rkr-group-buying-compra-colectiva-con-precio-por-tramos-para-prestashop.html
+rkrincicosmetics;RKR INCI Cosmetics;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/296-rkr-inci-cosmetics-lista-inci-alergenos-de-fragancia-ue-2023-1545-y-gpsr-para-prestashop.html
+rkrindexnowbest;RKR IndexNow Best;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/284-rkr-indexnow-best-avisa-a-los-buscadores-de-cada-cambio-y-mide-tus-productos-con-search-console.html
+rkrinfluencerslanding;RKR Influencer Landing;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/280-rkr-influencer-landing-una-pagina-propia-que-vende-para-cada-creador.html
+rkrinviteandwin;RKR Invite & Win;Rekire;Tercero;0;;132.9 €;https://rekire.com/modulos-de-prestashop/224-rkr-invite-win-programa-de-referidos-con-monedero-virtual-y-antifraude-para-prestashop.html
+rkrlegalassistant;RKR Legal Assistant;Rekire;Tercero;0;;129.9 €;https://rekire.com/modulos-de-prestashop/186-rkr-legal-assistant-textos-legales-consentimientos-y-avisos-para-prestashop.html
+rkrlinearpricingpro;RKR Linear Pricing Pro;Rekire;Tercero;0;;79.9 €;https://rekire.com/modulos-de-prestashop/219-rkr-linear-pricing-pro-venta-por-metros-con-bobinas-tramos-y-cortes-para-prestashop.html
+rkrlinkdigitalqrgs1;RKR GS1 Digital Link QR;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/314-rkr-gs1-digital-link-qr-codigos-qr-gs1-de-tu-catalogo-con-resolver-propio.html
+rkrlinkstock;RKR LinkStock;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/247-rkr-linkstock-stock-compartido-entre-productos-combinaciones-y-packs-en-prestashop.html
+rkrliveshowcase;RKR Live Showcase;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/275-rkr-live-showcase-tu-tienda-en-una-foto-con-cada-producto-comprable.html
+rkrmagiccarts;RKR Magic Carts;Rekire;Tercero;0;;119.9 €;https://rekire.com/modulos-de-prestashop/191-rkr-magic-carts-carritos-y-presupuestos-con-enlace-permalink-o-qr-para-prestashop.html
+rkrmanufacturing;Escandallos y órdenes de fabricación;Rekire;Tercero;0;;149.9 €;https://rekire.com/modulos-de-prestashop/289-escandallos-y-ordenes-de-fabricacion-coste-real-y-stock-automatico.html
+rkrmensajeria;RKR Mensajería (push, PWA);Rekire;Tercero;0;;60 €;https://rekire.com/modulos-de-prestashop/159-modulo-notificaciones-push.html
+rkrmixproductscontrol;RKR Control de Productos;Rekire;Tercero;0;;129.9 €;https://rekire.com/modulos-de-prestashop/307-rkr-control-de-productos-stock-muerto-y-cortafuegos-de-precios.html
+rkroffernextbuy;RKR Offer Next Buy;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/249-rkr-offer-next-buy-cupon-para-la-siguiente-compra.html
+rkrofferstransmail;RKR Ofertas en emails transaccionales;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/245-rkr-ofertas-en-emails-transaccionales-vende-en-los-correos-de-pedido-de-prestashop.html
+rkroneclickinstantbuy;RKR Compra en 1 clic;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/254-rkr-compra-en-1-clic-compra-en-un-clic-con-la-direccion-despues-del-pago-en-prestashop.html
+rkroptimmatters;RKR OptiMatters;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/246-rkr-optimatters-optimizador-de-css-js-y-google-fonts-para-prestashop.html
+rkrorderarchive;RKR Order Archive;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/192-rkr-order-archive-archivo-de-pedidos-antiguos-para-prestashop.html
+rkrorderprepcalendar;RKR Order Prep Calendar;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/257-rkr-order-prep-calendar-recordatorios-de-regalo-con-cupon.html
+rkroutlet;RKR Outlet;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/298-rkr-outlet-devoluciones-y-cajas-abiertas.html
+rkrpaymentfee;RKR Payment Fee;Rekire;Tercero;0;;59.9 €;https://rekire.com/modulos-de-prestashop/285-rkr-payment-fee-recargo-por-pedido-y-descuento-para-las-formas-de-pago-que-prefieres.html
+rkrprintprice;RKR Print & Laser Price Calculator;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/294-rkr-print-laser-price-calculator-presupuestos-instantaneos-de-impresion-3d-y-corte-laser.html
+rkrprivatesales;RKR Private Sales & Flash Sales;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/282-rkr-private-sales-flash-sales-ventas-privadas-y-flash-por-invitacion.html
+rkrproductdependencies;RKR Product Dependencies;Rekire;Tercero;0;;79.9 €;https://rekire.com/modulos-de-prestashop/222-rkr-product-dependencies-venta-con-requisitos-y-anadir-lo-que-falta-para-prestashop.html
+rkrproductfeed;RKR Product Feed para Google, Meta y TikTok;Rekire;Tercero;0;;79.9 €;https://rekire.com/modulos-de-prestashop/292-rkr-product-feed-para-google-meta-y-tiktok-un-articulo-por-combinacion-con-su-precio-y-su-stock.html
+rkrproductkit;Rekire Product Kit;Rekire;Tercero;0;;150 €;https://rekire.com/modulos-de-prestashop/90-modulo-kits.html
+rkrproductrescue;RKR Product Rescue;Rekire;Tercero;0;;59.9 €;https://rekire.com/modulos-de-prestashop/183-rkr-product-rescue-productos-agotados-desactivados-y-404-con-alternativas.html
+rkrprogramaticseo;RKR Programatic SEO;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/232-rkr-programatic-seo-landings-seo-por-lotes-para-prestashop.html
+rkrpromosintolists;RKR Promos Into Lists;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/291-rkr-promos-into-lists-ofertas-dentro-de-los-listados-de-productos.html
+rkrpurchaselimits;RKR Purchase Limits;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/295-rkr-purchase-limits-limites-de-compra-por-cliente-contra-revendedores-y-acaparadores.html
+rkrrecambios;RKR Recambios (Ovoko);Rekire;Tercero;0;;149.9 €;https://rekire.com/modulos-de-prestashop/281-rkr-recambios-vende-tu-recambio-usado-en-ovoko-desde-prestashop-sin-vender-dos-veces.html
+rkrrecargoequiva;RKR Recargo de Equivalencia;Rekire;Tercero;0;;129.9 €;https://rekire.com/modulos-de-prestashop/227-rkr-recargo-de-equivalencia-recargo-de-equivalencia-como-impuesto-real-en-prestashop.html
+rkrrefoundingorders;RKR Refound Orders;Rekire;Tercero;0;;119.9 €;https://rekire.com/modulos-de-prestashop/225-rkr-refound-orders-reembolsos-en-la-pasarela-con-factura-rectificativa.html
+rkrselectcity;RKR Selector de ciudad y teléfono internacional;Rekire;Tercero;0;;79.9 €;https://rekire.com/modulos-de-prestashop/258-rkr-selector-de-ciudad-y-telefono-internacional-direcciones-limpias-y-telefonos-validos-en-prestashop.html
+rkrshippingprotection;RKR Shipping Protection;Rekire;Tercero;0;;119.9 €;https://rekire.com/modulos-de-prestashop/194-rkr-shipping-protection-proteccion-de-envio-opcional-y-portal-de-reclamaciones-para-prestashop.html
+rkrshopintotelegram;RKR Telegram Store (Mini App);Rekire;Tercero;0;;172.9 €;https://rekire.com/modulos-de-prestashop/216-rkr-telegram-store-mini-app-vende-desde-un-bot-de-telegram.html
+rkrsmartcoupons;RKR Smart Coupons;Rekire;Tercero;0;;132.9 €;https://rekire.com/modulos-de-prestashop/231-rkr-smart-coupons-bonos-de-sesiones-y-creditos-prepagados-para-prestashop.html
+rkrspareparts;RKR Despieces Interactivos de Recambios;Rekire;Tercero;0;;89.9 €;https://rekire.com/modulos-de-prestashop/181-rkr-despieces-interactivos-de-recambios.html
+rkrspecialshipping;RKR Envíos a Canarias, Ceuta y Melilla;Rekire;Tercero;0;;129.9 €;https://rekire.com/modulos-de-prestashop/288-rkr-envios-a-canarias-ceuta-y-melilla.html
+rkrsplitfriendspayment;RKR Split Friends Payment;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/310-rkr-split-friends-payment-pago-dividido-entre-amigos-cada-uno-paga-su-parte.html
+rkrsyncglobouberjust;RKR Delivery Channel Sync (Glovo, Uber Eats, Just Eat);Rekire;Tercero;0;;149.9 €;https://rekire.com/modulos-de-prestashop/278-rkr-delivery-channel-sync-glovo-uber-eats-just-eat-vende-en-apps-de-reparto-desde-prestashop.html
+rkrsyncvinted;RKR Sync Vinted Pro;Rekire;Tercero;0;;149.9 €;https://rekire.com/modulos-de-prestashop/248-rkr-sync-vinted-pro-vende-en-vinted-y-en-tu-tienda-prestashop-sin-duplicar-ventas.html
+rkrteamnotes;RKR Team Notes;Rekire;Tercero;0;;79.9 €;https://rekire.com/modulos-de-prestashop/306-rkr-team-notes-notas-internas-menciones-y-responsables-en-pedidos.html
+rkrtextillabels;RKR Textile Labels;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/277-rkr-textile-labels-etiquetas-textiles-composicion-y-simbolos-de-cuidado-para-prestashop.html
+rkrthanksbybuy;RKR Thanks by Buy;Rekire;Tercero;0;;99.9 €;https://rekire.com/modulos-de-prestashop/252-rkr-thanks-by-buy-ofertas-de-socios-en-la-confirmacion-de-pedido.html
+rkrtotaltranslator;Traducción total;Rekire;Tercero;0;;160 €;https://rekire.com/modulos-de-prestashop/124-modulo-traduccion-total.html
+rkrunlimitedtabs;RKR Unlimited Tabs;Rekire;Tercero;0;;69.9 €;https://rekire.com/modulos-de-prestashop/185-rkr-unlimited-tabs-pestanas-reutilizables-en-la-ficha-de-producto-para-prestashop.html
+rkrvatplastic;RKR Plastic Packaging Tax (Modelo 592);Rekire;Tercero;0;;149.9 €;https://rekire.com/modulos-de-prestashop/250-rkr-plastic-packaging-tax-impuesto-del-plastico-y-modelo-592-para-prestashop.html
+rkrvatusedgoods;RKR REBU (IVA del margen);Rekire;Tercero;0;;179.9 €;https://rekire.com/modulos-de-prestashop/223-rkr-rebu-iva-del-margen-para-bienes-usados.html
+rkrvatvape;RKR Vape & Nicotine Excise Tax (Modelo 573);Rekire;Tercero;0;;129.9 €;https://rekire.com/modulos-de-prestashop/229-rkr-vape-nicotine-excise-tax-impuesto-especial-y-modelo-573-para-prestashop.html
+rkrverifyauthenticity;RKR Verify Authenticity;Rekire;Tercero;0;;119.9 €;https://rekire.com/modulos-de-prestashop/297-rkr-verify-authenticity-certificados-de-autenticidad-con-qr-y-nfc-para-prestashop.html
+rkrvideollamada;RKR Video Call;Rekire;Tercero;0;;129.9 €;https://rekire.com/modulos-de-prestashop/193-rkr-video-call-videollamadas-de-venta-con-carrito-compartido-para-prestashop.html
+rkrvolumepricingpro;RKR Volume Pricing Pro;Rekire;Tercero;0;;79.9 €;https://rekire.com/modulos-de-prestashop/220-rkr-volume-pricing-pro-venta-por-volumen-m-y-litros-con-unidades-completas-y-stock-para-prestashop.html
+rkrweightpricingpro;RKR Weight Pricing Pro;Rekire;Tercero;0;;79.9 €;https://rekire.com/modulos-de-prestashop/221-rkr-weight-pricing-pro-venta-por-peso-para-prestashop.html
 followup;;github.com;Tercero;44;8.1, 8.2;Gratis;https://github.com/PrestaShop/ps_followup
 index.php;;;Tercero;44;8.1, 8.2;Gratis (sin confirmar);
 referralprogram;;github.com;Tercero;44;8.1, 8.2;Gratis;https://github.com/PrestaShop/referralprogram
 paypal;PayPal oficial (202 ecommerce);202 ecommerce;Tercero;27;8.1, 8.2;Gratis (sin confirmar);
-redsyspur;Redsys oficial (PUR);Redsys Servicios de Proces;Tercero;19;8.1, 8.2;Gratis (sin confirmar);
-imageregenerator;Regeneracion de imagenes (Como;Jérémy Besson - ComonSoft;Tercero;18;8.1, 8.2;Gratis (sin confirmar);
+redsyspur;Redsys oficial (PUR);Redsys Servicios de Procesamiento S.L.;Tercero;19;8.1, 8.2;Gratis (sin confirmar);
+imageregenerator;Regeneracion de imágenes (ComonSoft);Jérémy Besson;Tercero;18;8.1, 8.2;Gratis (sin confirmar);
 sequra;;docs.sequra.com;Tercero;16;8.2;Gratis;https://docs.sequra.com/docs/installation-prestashop
 tecno_xss_hotfix;Parche XSS (Tecnoacquisti.com);Tecnoacquisti.com;Tercero;14;8.1, 8.2;Gratis (sin confirmar);
 mailchimppro;Mailchimp (oficial);Mailchimp;Tercero;13;8.1, 8.2;Gratis;https://mailchimp.com/integrations/prestashop/
-adminmenu;Back office menu manager (MyPr;MyPresta.eu;Tercero;12;8.1, 8.2;Gratis;https://mypresta.eu/modules/administration-tools/back-office-menu-manager.html
+adminmenu;Back office menu manager (MyPresta);MyPresta.eu;Tercero;12;8.1, 8.2;Gratis;https://mypresta.eu/modules/administration-tools/back-office-menu-manager.html
+emarketing;PrestaShop Ads (oficial);gratuito de PrestaShop;Tercero;12;8.2;Gratis;https://addons.prestashop.com/en/paid-advertising/18716-microsoft-google-meta-ads-data-feed-optimization.html
 ph_relatedposts;Related Posts (PrestaHome);www.PrestaHome.com;Tercero;12;8.1, 8.2;Gratis (sin confirmar);
 psxmarketingwithgoogle;;care-center.prestashop.com;Tercero;10;8.2;Gratis;https://care-center.prestashop.com/gb/prestashop-marketing/767-prestashop-marketing-with-google.html
-redsysoficial;Redsys oficial;;Tercero;10;;Gratis (sin confirmar);
-dboptimization;Database Optimization (MyPrest;MyPresta.eu;Tercero;9;8.1, 8.2;Gratis;https://mypresta.eu/modules/administration-tools/database-optimization.html
+redsysoficial;Redsys oficial;REDSYS;Tercero;10;;Gratis (sin confirmar);
+dboptimization;Database Optimization (MyPresta);MyPresta.eu;Tercero;9;8.1, 8.2;Gratis;https://mypresta.eu/modules/administration-tools/database-optimization.html
 exportpro;Export Pro (Oavea);Oavea - oavea.com;Tercero;9;8.1, 8.2;Gratis (sin confirmar);
-presta_resend_order_conf_email;Reenviar correo de confirmacio;Ajax Z;Tercero;9;8.2;Gratis;https://github.com/blastanders/Prestashop-Resend-Order-Confirmation-Email
+presta_resend_order_conf_email;Reenviar correo de confirmación (Ajax Z);Ajax Z;Tercero;9;8.2;Gratis;https://github.com/blastanders/Prestashop-Resend-Order-Confirmation-Email
 whatsapp;WhatsApp Live Chat (fyazilim);fyazilim.com;Tercero;9;8.1, 8.2;Gratis;https://www.fyazilim.com/en/free-prestashop-modules/17-whatsapp-live-chat.html
 deleteordersfree;Delete Orders Free (MyPresta);MyPresta.eu;Tercero;8;;Gratis;https://mypresta.eu/modules/administration-tools/delete-orders-free.html
 litespeedcache;;;Tercero;8;8.1, 8.2;Gratis (sin confirmar);
@@ -124,7 +218,7 @@ mrwtracking;MRW seguimiento;;Tercero;4;;Gratis (sin confirmar);
 paytpv;;docs.paycomet.com;Tercero;4;8.2;Gratis;https://docs.paycomet.com/en/modulos-de-pago/prestashop
 sequracheckout;;addons.prestashop.com;Tercero;4;;Gratis;https://addons.prestashop.com/en/buy-now-pay-later/91406-sequra-payments.html
 sequrapayment;;addons.prestashop.com;Tercero;4;;Gratis;https://addons.prestashop.com/en/buy-now-pay-later/91406-sequra-payments.html
-smartsupp;;smartsupp.com;Tercero;4;8.2;Gratis;https://www.smartsupp.com/
+smartsupp;smartsupp;Smartsupp;Tercero;4;8.2;Gratis;https://www.smartsupp.com/
 autoupgrade_1;;github.com;Tercero;3;;Gratis;https://github.com/PrestaShop/autoupgrade
 ceca;;;Tercero;3;8.2;Gratis (sin confirmar);
 cecabank;;;Tercero;3;8.2;Gratis (sin confirmar);
@@ -152,14 +246,14 @@ holded;;;Tercero;2;8.2;Gratis (sin confirmar);
 homefeatured;;;Tercero;2;;Gratis (sin confirmar);
 ht_scrolltop;;hiddentechies.com;Tercero;2;;Gratis;https://www.hiddentechies.com/scroll-top-prestashop-module.html
 ht_themeloader;;;Tercero;2;;Gratis (sin confirmar);
-lgfreeshippingzones;;lineagrafica.es;Tercero;2;8.2;Gratis;https://www.lineagrafica.es/en/products/prestashop-module-free-shipping-zone-carrier-weight-price
+lgfreeshippingzones;lgfreeshippingzones;Línea Gráfica;Tercero;2;8.2;Gratis;https://www.lineagrafica.es/en/products/prestashop-module-free-shipping-zone-carrier-weight-price
 loyalty;;github.com;Tercero;2;8.2;Gratis;https://github.com/PrestaShop/ps_loyalty
 nacex;;;Tercero;2;8.2;Gratis (sin confirmar);
 netreviews.zip;;;Tercero;2;;Gratis (sin confirmar);
 newsletter;;;Tercero;2;;Gratis (sin confirmar);
 paytpv1;;docs.paycomet.com;Tercero;2;8.2;Gratis;https://docs.paycomet.com/en/modulos-de-pago/prestashop
 paytpv_3;;docs.paycomet.com;Tercero;2;8.2;Gratis;https://docs.paycomet.com/en/modulos-de-pago/prestashop
-rediscache;Redis cache (Planet-Work);Frédéric VANNIÈRE - Planet;Tercero;2;8.2;Gratis;https://github.com/fvanniere/prestashop-redis-cache
+rediscache;Redis cache (Planet-Work);Frédéric VANNIÈRE - Planet-Work;Tercero;2;8.2;Gratis;https://github.com/fvanniere/prestashop-redis-cache
 redsysdeferred;;canales.redsys.es;Tercero;2;;Gratis;https://canales.redsys.es/
 redsysinsite;;;Tercero;2;8.2;Gratis (sin confirmar);
 redsysoficial1;;packlink.com;Tercero;2;;Gratis;https://packlink.com/en-GB/blog/how-to-configure-redsys-module-for-prestashop
@@ -205,10 +299,10 @@ cheque;;;Tercero;1;;Gratis (sin confirmar);
 codwfeeplus;;;Tercero;1;;Gratis (sin confirmar);
 cofidis;;;Tercero;1;8.2;Gratis (sin confirmar);
 columnadverts;;;Tercero;1;;Gratis (sin confirmar);
-correosoficial;Correos y Correos Express ofic;;Tercero;1;;Gratis (sin confirmar);
+correosoficial;Correos y Correos Express oficial;;Tercero;1;;Gratis (sin confirmar);
 correosoficial88;;;Tercero;1;;Gratis (sin confirmar);
 criteo;;addons.prestashop.com;Tercero;1;8.2;Gratis;https://addons.prestashop.com
-crossselling;;docs.prestashop-project.or;Tercero;1;;Gratis;https://docs.prestashop-project.org/
+crossselling;;docs.prestashop-project.org;Tercero;1;;Gratis;https://docs.prestashop-project.org/
 crossselling_mod;;;Tercero;1;;Gratis (sin confirmar);
 datalayertagmanager_5;;;Tercero;1;8.2;Gratis (sin confirmar);
 displayordercarrier;;github.com;Tercero;1;8.2;Gratis;https://github.com/Matt75/displayordercarrier
@@ -281,6 +375,7 @@ productpaymentlogos;;;Tercero;1;;Gratis (sin confirmar);
 productscategory;;;Tercero;1;;Gratis (sin confirmar);
 productsmanufacturer;;;Tercero;1;;Gratis (sin confirmar);
 producttooltip;;;Tercero;1;;Gratis (sin confirmar);
+ps_searchbarjqauto;Buscador con autocompletado (nativo);Prestarocket;Tercero;1;;Gratis;https://github.com/PrestaShop/ps_searchbarjqauto
 readordersmirakl_ecom;;;Tercero;1;;Gratis (sin confirmar);
 redsys156.zip;;;Tercero;1;8.2;Gratis (sin confirmar);
 redsys17;;github.com;Tercero;1;;Gratis;https://github.com/delafuentebayo/redsys-prestashop-module
@@ -321,7 +416,7 @@ ups2;;inmotionhosting.com;Tercero;1;;Gratis;https://www.inmotionhosting.com/supp
 upscarrier;;inmotionhosting.com;Tercero;1;;Gratis;https://www.inmotionhosting.com/support/edu/prestashop/configure-ups-carrier/
 uspscarrier;;;Tercero;1;;Gratis (sin confirmar);
 v2.0.24-sendcloudv2.zip;;sendcloud.com;Tercero;1;;Gratis;https://www.sendcloud.com/app/prestashop/
-vatchecker;;github.com;Tercero;1;8.2;Gratis;https://github.com/kapytanhook/vatchecker
+vatchecker;vatchecker;Inform-All & Keraweb;Tercero;1;8.2;Gratis;https://github.com/kapytanhook/vatchecker
 vatnumber;;;Tercero;1;;Gratis (sin confirmar);
 verticalblockcategories;;;Tercero;1;;Gratis (sin confirmar);
 viabill_1;;;Tercero;1;;Gratis (sin confirmar);
@@ -377,7 +472,7 @@ exportinvoices;;;Tercero;3;;—;
 facebookconversiontrackingplus;;;Tercero;3;8.2;—;
 featuredcategory;;;Tercero;3;;—;
 gformbuilderpro;;;Tercero;3;;—;
-groupinc;;;Tercero;3;;—;
+groupinc;groupinc;idnovate;Tercero;3;;—;
 hsmultiaccessoriespro;;discover.commoninja.com;Tercero;3;8.2;—;https://discover.commoninja.com/prestashop/module/23426-multi-accessories-pro
 idxrcustomcontentpro;;;Tercero;3;8.2;—;
 ordersexport;;;Tercero;3;8.2;—;
@@ -391,7 +486,6 @@ zipcodezone;;;Tercero;3;8.1, 8.2;—;
 _prettyurls;;;Tercero;2;;—;
 absfrequentlyboughttogether;;;Tercero;2;;—;
 addimagesfromftp;;;Tercero;2;;—;
-addstateorder;;;Tercero;2;8.2;—;
 advancedpopupcreator;;;Tercero;2;8.2;—;
 alcagtmplus;;;Tercero;2;8.2;—;
 alcaminqtybyprod;;;Tercero;2;8.2;—;
@@ -454,7 +548,6 @@ instantpay;;;Tercero;2;8.2;—;
 jscomposer;;codecanyon.net;Tercero;2;;—;https://codecanyon.net/search/visual%20composer%20addon
 lisfeatureswithlink;;;Tercero;2;;—;
 llmsgenerator_1;;;Tercero;2;8.2;—;
-llmsgenerator_ecom;;;Tercero;2;8.2;—;
 llmsgenerator_ecom_1;;;Tercero;2;8.2;—;
 lyopageeditor1;;;Tercero;2;8.2;—;
 megaproduct;;alabazweb.com;Tercero;2;8.2;—;https://www.alabazweb.com/en/personalización-productos/21-sales-of-products-for-m2-m3-linear-and-decimal-prestashop-module.html
@@ -480,7 +573,7 @@ pushoncart;;;Tercero;2;8.2;—;
 revsliderprestashop1_;;classydevs.com;Tercero;2;;—;https://classydevs.com/prestashop-product-slider
 richsnippets;;;Tercero;2;;—;
 rkrerpupload;;;Tercero;2;;—;
-rkrlastprice;;;Tercero;2;;—;
+rkrlastprice;rkrlastprice;Rekire;Tercero;2;;—;
 rkrrelational;;;Tercero;2;;—;
 rkrstockneed;;;Tercero;2;;—;
 sayezantibot;;;Tercero;2;;—;
@@ -491,7 +584,6 @@ sdevadeo;;;Tercero;2;;—;
 sfkcookiebanner;;;Tercero;2;;—;
 showandchange_ecom;;;Tercero;2;;—;
 sincronizarconmaster;;;Tercero;2;;—;
-sitemap_combinations;;;Tercero;2;;—;
 sitemapimagenes;;;Tercero;2;;—;
 soycontrolcookies;;;Tercero;2;;—;
 soyfeedpersonalizado;;;Tercero;2;;—;
@@ -833,7 +925,6 @@ indexnow;;;Tercero;1;8.2;—;
 infinitescrolldw;;;Tercero;1;;—;
 instrucciones-v011.txt;;;Tercero;1;8.2;—;
 interseo;;;Tercero;1;8.2;—;
-invoicemod;;;Tercero;1;;—;
 ipproductnavigator;;;Tercero;1;8.2;—;
 kbebay;;knowband.com;Tercero;1;;—;https://knowband.com/prestashop-ebay-marketplace-integration
 kbrelatedproducts;;knowband.com;Tercero;1;;—;https://www.knowband.com/prestashop-automatic-related-products
@@ -978,10 +1069,8 @@ revsliderprestashop.zip;;;Tercero;1;8.2;—;
 revsliderprestashop1;;;Tercero;1;8.2;—;
 revsliderprestashop_1;;classydevs.com;Tercero;1;;—;https://classydevs.com/slider-revolution-prestashop/
 revsliderprestashop_old;;classydevs.com;Tercero;1;8.2;—;https://classydevs.com/docs/slider-revolution-6-prestashop/quick-setup/install-activate/
-rightofwithdrawal;;;Tercero;1;8.2;—;
 rkrregistroampliado1;;;Tercero;1;;—;
 rkrregistroampliado2;;;Tercero;1;;—;
-rkrtaxround;;;Tercero;1;8.2;—;
 rx_googlestructureddata;;;Tercero;1;;—;
 salchialerts;;;Tercero;1;8.2;—;
 salchibackinstock;;;Tercero;1;8.2;—;
@@ -1057,11 +1146,11 @@ soyregisterprotect;;;Tercero;1;;—;
 soyresponsiveslider;;;Tercero;1;;—;
 soyseomicrodatos;;;Tercero;1;;—;
 spblockcart;;;Tercero;1;;—;
-spblocktags;;documentation.magentech.co;Tercero;1;;—;https://documentation.magentech.com/sp-custom-html-1-7-x
+spblocktags;;documentation.magentech.com;Tercero;1;;—;https://documentation.magentech.com/sp-custom-html-1-7-x
 spblockuserinfo;;;Tercero;1;;—;
 spcustomhtml;;;Tercero;1;;—;
 spdeal;;;Tercero;1;;—;
-spextraslider;;documentation.magentech.co;Tercero;1;;—;https://documentation.magentech.com/sp-extra-slider-1-7-x
+spextraslider;;documentation.magentech.com;Tercero;1;;—;https://documentation.magentech.com/sp-extra-slider-1-7-x
 splistingtabs;;;Tercero;1;;—;
 spmanufactureslider;;;Tercero;1;;—;
 spmegamenu;;codecanyon.net;Tercero;1;;—;https://codecanyon.net/item/sp-vertical-mega-menu-responsive-module/11556278
@@ -1222,9 +1311,9 @@ ets_recaptcha_free;;;Plantilla;6;8.2;Incluido con la plantilla;
 ets_megamenu;;;Plantilla;4;8.2;Incluido con la plantilla;
 iqitproductflags;iqitproductflags;iqit-commerce.com;Plantilla;4;8.1, 8.2;Incluido con la plantilla;
 iqitproductvariants;;;Plantilla;4;8.1, 8.2;Incluido con la plantilla;
-stcolorname;;;Plantilla;4;8.2;Incluido con la plantilla;
+stcolorname;stcolorname;SUNNYTOO.COM;Plantilla;4;8.2;Incluido con la plantilla;
 stgrecaptcha;;;Plantilla;4;8.2;Incluido con la plantilla;
-stprothumbgroup;;;Plantilla;4;8.2;Incluido con la plantilla;
+stprothumbgroup;stprothumbgroup;SUNNYTOO.COM;Plantilla;4;8.2;Incluido con la plantilla;
 stprovideos;;;Plantilla;4;8.2;Incluido con la plantilla;
 ets_contactform7;;;Plantilla;3;;Incluido con la plantilla;
 ets_superspeed;;;Plantilla;3;8.2;Incluido con la plantilla;
@@ -1234,7 +1323,7 @@ stgadwordsconversion;;;Plantilla;3;;Incluido con la plantilla;
 stnoimage;stnoimage;SUNNYTOO.COM;Plantilla;3;8.1, 8.2;Incluido con la plantilla;
 storeggmap;;;Plantilla;3;;Incluido con la plantilla;
 stproductcommentspro;;;Plantilla;3;8.2;Incluido con la plantilla;
-sturls;PrestaShop removing IDs from U;SUNNYTOO.COM;Plantilla;3;8.2;Incluido con la plantilla;
+sturls;PrestaShop removing IDs from URLs & SEO friendly url module.;SUNNYTOO.COM;Plantilla;3;8.2;Incluido con la plantilla;
 ets_abandonedcart;;;Plantilla;2;;Incluido con la plantilla;
 ets_banneranywhere;;;Plantilla;2;8.2;Incluido con la plantilla;
 ets_cookie_banner;;;Plantilla;2;8.1;Incluido con la plantilla;
@@ -1259,7 +1348,7 @@ steasybuilder;;;Plantilla;2;8.1;Incluido con la plantilla;
 storecommanderps;;;Plantilla;2;;Incluido con la plantilla;
 stwebp;stwebp;SUNNYTOO.COM;Plantilla;2;8.2;Incluido con la plantilla;
 wkproductlabel;;;Plantilla;2;;Incluido con la plantilla;
-ets_advancedcaptcha;;;Plantilla;1;8.2;Incluido con la plantilla;
+ets_advancedcaptcha;ets_advancedcaptcha;PrestaHero;Plantilla;1;8.2;Incluido con la plantilla;
 ets_affiliatemarketing;;;Plantilla;1;;Incluido con la plantilla;
 ets_ageverification;;;Plantilla;1;8.1;Incluido con la plantilla;
 ets_countdown;;;Plantilla;1;;Incluido con la plantilla;
@@ -1434,23 +1523,22 @@ ps_reminder;;;PrestaShop;33;8.1, 8.2;Gratis (de PrestaShop);
 ps_eventbus;ps_eventbus;PrestaShop;PrestaShop;30;8.1, 8.2;Gratis (de PrestaShop);
 welcome;;;PrestaShop;30;8.1, 8.2;Gratis (de PrestaShop);
 ps_mbo;ps_mbo;PrestaShop;PrestaShop;29;8.1, 8.2;Gratis (de PrestaShop);
-autoupgrade;autoupgrade;PrestaShop;PrestaShop;26;8.1, 8.2;Gratis (de PrestaShop);
+autoupgrade;7.6.5;gratuito de PrestaShop (lo dice su autor: PrestaShop);PrestaShop;26;8.1, 8.2;Gratis (de PrestaShop);
 ps_checkout;ps_checkout;PrestaShop;PrestaShop;25;8.1, 8.2;Gratis (de PrestaShop);
-psaddonsconnect;psaddonsconnect;PrestaShop;PrestaShop;25;8.1, 8.2;Gratis (de PrestaShop);
-statslive;;;PrestaShop;24;8.1, 8.2;Gratis (de PrestaShop);
-ps_buybuttonlite;ps_buybuttonlite;PrestaShop;PrestaShop;23;8.2;Gratis (de PrestaShop);
-statsvisits;;;PrestaShop;22;8.1, 8.2;Gratis (de PrestaShop);
+psaddonsconnect;2.1.2;gratuito de PrestaShop (lo dice su autor: PrestaShop);PrestaShop;25;8.1, 8.2;Gratis (de PrestaShop);
+statslive;2.1.0;gratuito de PrestaShop (lo dice su autor: PrestaShop);PrestaShop;24;8.1, 8.2;Gratis (de PrestaShop);
+ps_buybuttonlite;1.0.1;gratuito de PrestaShop (lo dice su autor: PrestaShop);PrestaShop;23;8.2;Gratis (de PrestaShop);
+statsvisits;2.0.2;gratuito de PrestaShop (lo dice su autor: PrestaShop);PrestaShop;22;8.1, 8.2;Gratis (de PrestaShop);
 gamification;gamification;PrestaShop;PrestaShop;21;8.1, 8.2;Gratis (de PrestaShop);
 ps_brandlist;;;PrestaShop;21;8.1, 8.2;Gratis (de PrestaShop);
 ps_cashondelivery;;;PrestaShop;21;8.1, 8.2;Gratis (de PrestaShop);
 ps_supplierlist;;;PrestaShop;21;8.1, 8.2;Gratis (de PrestaShop);
-sekeywords;;;PrestaShop;21;8.1, 8.2;Gratis (de PrestaShop);
-statsequipment;;;PrestaShop;21;8.1, 8.2;Gratis (de PrestaShop);
-statsorigin;;;PrestaShop;21;8.1, 8.2;Gratis (de PrestaShop);
+sekeywords;2.0.0;gratuito de PrestaShop (lo dice su autor: PrestaShop);PrestaShop;21;8.1, 8.2;Gratis (de PrestaShop);
+statsequipment;2.0.0;gratuito de PrestaShop (lo dice su autor: PrestaShop);PrestaShop;21;8.1, 8.2;Gratis (de PrestaShop);
+statsorigin;2.0.2;gratuito de PrestaShop (lo dice su autor: PrestaShop);PrestaShop;21;8.1, 8.2;Gratis (de PrestaShop);
 ps_distributionapiclient;;;PrestaShop;19;8.1, 8.2;Gratis (de PrestaShop);
 ps_facebook;;;PrestaShop;18;8.1, 8.2;Gratis (de PrestaShop);
 pscleaner;pscleaner;PrestaShop;PrestaShop;15;8.2;Gratis (de PrestaShop);
-emarketing;PrestaShop Ads (oficial);emarketing;PrestaShop;12;8.2;Gratis (de PrestaShop);https://addons.prestashop.com/en/paid-advertising/18716-microsoft-google-meta-ads-data-feed-optimization.html
 ps_legalcompliance;;;PrestaShop;11;8.1, 8.2;Gratis (de PrestaShop);
 ps_metrics;ps_metrics;PrestaShop;PrestaShop;11;8.1, 8.2;Gratis (de PrestaShop);
 cronjobs;;;PrestaShop;10;8.1, 8.2;Gratis (de PrestaShop);
@@ -1551,7 +1639,6 @@ ps_featuredproducts4;;;PrestaShop;1;;Gratis (de PrestaShop);
 ps_mbo.zip;;;PrestaShop;1;;Gratis (de PrestaShop);
 ps_metrics.zip;;;PrestaShop;1;;Gratis (de PrestaShop);
 ps_rolycatalogmanager;;;PrestaShop;1;8.1;Gratis (de PrestaShop);
-ps_searchbarjqauto;Buscador con autocompletado (n;Prestarocket;PrestaShop;1;;Gratis (de PrestaShop);https://github.com/PrestaShop/ps_searchbarjqauto
 ps_update;;;PrestaShop;1;;Gratis (de PrestaShop);
 psaddonsconnect.zip;;;PrestaShop;1;;Gratis (de PrestaShop);
 pscartabandonmentpro;pscartabandonmentpro;PrestaShop;PrestaShop;1;;Gratis (de PrestaShop);
@@ -1574,14 +1661,14 @@ ecomyseo2fa;ecomyseo2fa;ecomyseo;Propio;13;8.1, 8.2;Propio (gratis);https://gmar
 sendagainalertmail;sendagainalertmail;ecomyseo;Propio;13;8.1, 8.2;Propio (gratis);https://gmartos.es
 ecom_shield;ecom_shield;Ecom Experts;Propio;12;8.1, 8.2;Propio (gratis);https://gmartos.es
 ecom_desestimiento;ecom_desestimiento;Ecom Experts;Propio;10;8.1, 8.2;Propio (gratis);https://gmartos.es
-ecom_redis;;Ecom Experts;Propio;9;8.1, 8.2;Propio (gratis);https://gmartos.es
+ecom_redis;ecom_redis;Ecom Experts;Propio;9;8.1, 8.2;Propio (gratis);https://gmartos.es
 exportproducts;exportproducts;ecomyseo;Propio;8;8.2;Propio (gratis);https://gmartos.es
 prestaanalytics;prestaanalytics;Ecom Experts;Propio;6;8.2;Propio (gratis);https://gmartos.es
 ps_translationfinder;ps_translationfinder;Ecom Experts;Propio;6;8.1, 8.2;Propio (gratis);https://gmartos.es
 addterms;addterms;ecomyseo;Propio;5;8.2;Propio (gratis);https://gmartos.es
 ecom_statsbots;ecom_statsbots;Ecom Experts;Propio;5;8.1, 8.2;Propio (gratis);https://gmartos.es
 ecom_odooconnect;;Ecom Experts;Propio;4;8.2;Propio (gratis);https://gmartos.es
-ecom_search;ecom_search;Ecom Experts;Propio;4;8.2;Propio (gratis);https://gmartos.es
+ecom_search;ecom_search;gmartos;Propio;4;8.2;Propio (gratis);https://gmartos.es
 asociarcategoriapadre;asociarcategoriapadre;ecomyseo;Propio;3;8.2;Propio (gratis);https://gmartos.es
 ecom_blockbot;;Ecom Experts;Propio;3;8.2;Propio (gratis);https://gmartos.es
 ecom_cleanimages;ecom_cleanimages;Ecom Experts;Propio;3;8.1, 8.2;Propio (gratis);https://gmartos.es
@@ -1591,10 +1678,11 @@ ecom_whatsapp;ecom_whatsapp;Ecom Experts;Propio;3;8.2;Propio (gratis);https://gm
 merchantoptintegration;merchantoptintegration;ecomyseo;Propio;3;8.2;Propio (gratis);https://gmartos.es
 showemailswaitstock;showemailswaitstock;ecomyseo;Propio;3;8.2;Propio (gratis);https://gmartos.es
 addcupondesdeurl;addcupondesdeurl;ecomyseo;Propio;2;8.2;Propio (gratis);https://gmartos.es
+addstateorder;addstateorder;ecomyseo;Propio;2;8.2;Propio (gratis);https://gmartos.es
 carrefourhelpfile;carrefourhelpfile;ecomyseo;Propio;2;8.2;Propio (gratis);https://gmartos.es
 ecom_calculateshipping;ecom_calculateshipping;Ecom Experts;Propio;2;8.2;Propio (gratis);https://gmartos.es
 ecom_captchaent;;Ecom Experts;Propio;2;8.2;Propio (gratis);https://gmartos.es
-ecom_checkmd5;ecom_checkmd5;Ecom Experts;Propio;2;;Propio (gratis);https://gmartos.es
+ecom_checkmd5;Módulo de control de integridad para PrestaShop, Conoce en minutos modificaciones en los ficheros.;Ecom Experts;Propio;2;;Propio (gratis);https://gmartos.es/producto/control-de-integridad-para-prestashop-si-te-tocan-un-fichero-lo-sabes-en-minutos-no-en-tres-semanas/
 ecom_featuresbyia;;Ecom Experts;Propio;2;8.2;Propio (gratis);https://gmartos.es
 ecom_featuresbyia_1;;Ecom Experts;Propio;2;8.2;Propio (gratis);https://gmartos.es
 ecom_log_events;;Ecom Experts;Propio;2;8.2;Propio (gratis);https://gmartos.es
@@ -1603,13 +1691,15 @@ ecom_psmcp;ecom_psmcp;Ecom Experts;Propio;2;8.2;Propio (gratis);https://gmartos.
 ecom_secadmin;ecom_secadmin;Ecom Experts;Propio;2;8.2;Propio (gratis);https://gmartos.es
 ecom_traceerrors;;Ecom Experts;Propio;2;8.2;Propio (gratis);https://gmartos.es
 list_products_orders;list_products_orders;ecomyseo;Propio;2;8.2;Propio (gratis);https://gmartos.es
+llmsgenerator_ecom;llmsgenerator_ecom;ecomyseo;Propio;2;8.2;Propio (gratis);https://gmartos.es
 removeisourldefaultlanguage;removeisourldefaultlanguage;Ecom Experts;Propio;2;8.2;Propio (gratis);https://gmartos.es
+sitemap_combinations;sitemap_combinations;ecomyseo;Propio;2;;Propio (gratis);https://gmartos.es
 alertproductcart;alertproductcart;ecomyseo;Propio;1;;Propio (gratis);https://gmartos.es
 botonadminwhatsapp;botonadminwhatsapp;ecomyseo;Propio;1;;Propio (gratis);https://gmartos.es
 canonicalcats;canonicalcats;ecomyseo;Propio;1;8.2;Propio (gratis);https://gmartos.es
 checknewsletteremail;checknewsletteremail;ecomyseo;Propio;1;;Propio (gratis);https://gmartos.es
 combislist;combislist;ecomyseo;Propio;1;;Propio (gratis);https://gmartos.es
-ecom_abandcarts;Ecom Abandoned Carts AI;Ecom Experts;Propio;1;8.1;Propio (gratis);https://gmartos.es
+ecom_abandcarts;Abandcarts AI · Recuperador de carritos para PrestaShop;Ecom Experts;Propio;1;8.1;Propio (gratis);https://gmartos.es/producto/abandcarts-ai-%c2%b7-recuperador-de-carritos-para-prestashop/
 ecom_applytax;;Ecom Experts;Propio;1;;Propio (gratis);https://gmartos.es
 ecom_attachmailpdf;;Ecom Experts;Propio;1;8.2;Propio (gratis);https://gmartos.es
 ecom_autobarcode;;Ecom Experts;Propio;1;;Propio (gratis);https://gmartos.es
@@ -1655,7 +1745,11 @@ ecom_sitemapcats;ecom_sitemapcats;Ecom Experts;Propio;1;8.1;Propio (gratis);http
 ecom_tredding;;Ecom Experts;Propio;1;;Propio (gratis);https://gmartos.es
 ecom_turbo;;Ecom Experts;Propio;1;8.2;Propio (gratis);https://gmartos.es
 ecom_vatforceeu;;Ecom Experts;Propio;1;8.1;Propio (gratis);https://gmartos.es
-ecommailcontent;;Ecom Experts;Propio;1;8.2;Propio (gratis);https://gmartos.es
+ecommailcontent;ecommailcontent;Ecom Experts;Propio;1;8.2;Propio (gratis);https://gmartos.es
 ecomofuscar;ecomofuscar;Ecom Experts;Propio;1;8.1;Propio (gratis);https://gmartos.es
 ecomofuscar1;;Ecom Experts;Propio;1;8.1;Propio (gratis);https://gmartos.es
+invoicemod;invoicemod;ecomyseo;Propio;1;;Propio (gratis);https://gmartos.es
 showtaxescart;showtaxescart;ecomyseo;Propio;1;8.1;Propio (gratis);https://gmartos.es
+ecom_factusol;Conector FactuSOL para PrestaShop: pedidos, precios, existencias y facturas;Ecom Experts;Propio;0;;Propio (gratis);https://gmartos.es/producto/conector-factusol-prestashop/
+ecom_listastrabajo;Listas de la compra por trabajo con IA para PrestaShop;Ecom Experts;Propio;0;;Propio (gratis);https://gmartos.es/producto/listas-compra-por-trabajo-ia-prestashop/
+ecom_montatucaja;Monta tu caja: packs a elegir con descuento para PrestaShop;Ecom Experts;Propio;0;;Propio (gratis);https://gmartos.es/producto/monta-tu-caja-packs-a-elegir-con-descuento-para-prestashop/

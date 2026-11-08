@@ -1,37 +1,31 @@
-# Catálogo de módulos de PrestaShop (con desarrollador, enlaces y precios)
+# Catálogo de módulos de PrestaShop
 
-Listado de **1.660 módulos distintos** de PrestaShop, con su **desarrollador**, el
-**enlace** a la ficha del fabricante y el **precio real** de la licencia cuando existe
-ficha pública.
+Actualizado el **8 de noviembre de 2026**. Contiene **1.754 módulos distintos**
+de **45 tiendas** escaneadas y de las fichas de fabricantes con identificador acreditado.
+De ellos, **1.227 son de terceros**; los demás son propios, de plantilla o de PrestaShop.
 
-- **1.138 de terceros** — 309 con precio localizado y su fuente.
-- El resto: módulos propios, de plantilla o de serie de PrestaShop.
+Incluye **302 referencias comerciales** verificadas de **gmartos.es** (144 productos y servicios)
+y **Rekire** (158). Se han acreditado correspondencias técnicas para 5 productos propios y
+93 de Rekire. Las demás referencias conservan su nombre comercial y su enlace, sin asignar
+un nombre técnico supuesto. Una fila con cero tiendas procede de una ficha del fabricante.
 
 ## Ficheros
 
-| Fichero | Qué es |
+| Fichero | Contenido |
 |---|---|
-| [`catalogo-modulos-completo.md`](catalogo-modulos-completo.md) | El listado completo, en tres tablas: terceros con precio, terceros sin precio, y propios/plantilla/PrestaShop. |
-| [`catalogo-modulos.csv`](catalogo-modulos.csv) | Los mismos datos en CSV (separador `;`), para abrir en Excel o importar. |
-| [`catalogo-modulos-completo.pdf`](catalogo-modulos-completo.pdf) | El listado en PDF, listo para imprimir o compartir. |
+| [Catálogo completo en Markdown](catalogo-modulos-completo.md) | Módulos agrupados por coste y referencias comerciales de los fabricantes. |
+| [Catálogo en CSV](catalogo-modulos.csv) | Datos técnicos, desarrollador, tiendas, ramas de PrestaShop, coste y enlace; separador de columnas `;`. |
+| [Catálogo en PDF](catalogo-modulos-completo.pdf) | Documento con tablas, enlaces y cabeceras repetidas, preparado para consultar o compartir. |
 
-## Columnas
+## Cómo leer el coste
 
-- **Módulo** — nombre técnico de la carpeta del módulo.
-- **Comercial** — nombre comercial, cuando se conoce.
-- **Desarrollador** — autor o fabricante; si no consta el autor, el dominio de su ficha.
-- **Tiendas** — en cuántas tiendas aparece (indicador de uso, sin identificar ninguna).
-- **PrestaShop** — ramas de PrestaShop en las que se ha visto correr.
-- **Licencia** — `pago`, `gratis`, `suscripcion`, `propio` o desconocida.
-- **Precio** — precio real de la licencia, con su enlace. Un guion (—) = sin ficha con
-  precio público (normalmente módulos a medida, de agencia o copias de respaldo).
-- **Enlace** — ficha del fabricante.
+- **Una cifra en euros:** precio publicado con su fuente; la renovación de una licencia existente se confirma con el fabricante.
+- **Suscripción** o **servicio de pago:** el coste depende de un servicio periódico y no se presenta como gratuito.
+- **Gratis:** distingue las fichas con enlace de los casos todavía sin confirmar.
+- **Propio (gratis):** módulo de Ecom Experts con licencia de 0 € para el cliente. Su PVP comercial solo sirve como referencia.
+- **Incluido con la plantilla** y **Gratis (de PrestaShop):** categorías diferenciadas.
+- **Un guion:** falta un precio público confirmado; nunca se sustituye por una estimación.
 
-## Notas
-
-- Los precios son los **reales con fuente**; nunca estimaciones inventadas. Donde no hay
-  ficha pública, el precio queda vacío.
-- `propio (0 €)` = módulo desarrollado por el propietario de las tiendas: sin coste de
-  licencia.
-- El listado no identifica ninguna tienda concreta: solo cuenta en cuántas aparece cada
-  módulo.
+Las referencias de Rekire indican el precio **sin IVA**. Las de gmartos.es muestran el PVP publicado.
+Las ramas de PrestaShop de la tabla indican dónde se ha observado el módulo; no certifican su compatibilidad futura.
+El catálogo muestra únicamente recuentos de tiendas.
